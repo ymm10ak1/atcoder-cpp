@@ -1,0 +1,9 @@
+*
+!*/
+!*.*
+*.sh
+*.out
+*.in
+contest.acc.json
+test/
+.vscode/
