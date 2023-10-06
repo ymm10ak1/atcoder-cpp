@@ -1,4 +1,4 @@
-// B - Foods Loved by Everyone
+// C - Good Sequence
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -14,21 +14,19 @@ const int INF = 1e9;
 const ll LINF = 1e18;
 
 int main(){
-    int n, m;
-    cin >> n >> m;
-    vector<int> k(n);
+    int n;
+    cin >> n;
+    vector<int> a(n);
     map<int, int> mp;
     rep(i, n){
-        cin >> k[i];
-        rep(j, k[i]){
-            int ai; cin >> ai;
-            mp[ai]++;
-        }
-    }
+        cin >> a[i];
+        mp[a[i]]++;
+    } 
     int ans = 0;
-    rep(i, m){
-        if(mp[i+1] == n) ans++;
+    for(auto p : mp){
+        if(p.second < p.first) ans += p.second;
+        else if(p.second > p.first) ans += abs(p.first-p.second);
     }
-    cout << ans << el;
+    printf("%d\n", ans);
     return 0;
 }

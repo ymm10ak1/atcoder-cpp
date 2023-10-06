@@ -1,1 +1,1 @@
-# atcoder abcをcppで解く
+# atcoderをcppで解く

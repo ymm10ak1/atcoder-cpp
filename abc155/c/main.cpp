@@ -1,4 +1,4 @@
-// B - Foods Loved by Everyone
+// C - Poll
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -14,21 +14,18 @@ const int INF = 1e9;
 const ll LINF = 1e18;
 
 int main(){
-    int n, m;
-    cin >> n >> m;
-    vector<int> k(n);
-    map<int, int> mp;
-    rep(i, n){
-        cin >> k[i];
-        rep(j, k[i]){
-            int ai; cin >> ai;
-            mp[ai]++;
-        }
+    int n;
+    cin >> n;
+    vector<string> s(n);
+    rep(i, n) cin >> s[i];
+    map<string, int> mp;
+    rep(i, n) mp[s[i]]++;
+    vector<pair<int, string>> cnt;
+    for(auto p : mp) cnt.push_back(make_pair(p.second, p.first));
+    sort(all(cnt));
+    int max_cnt = cnt[cnt.size()-1].first;
+    for(auto p : cnt){
+        if(p.first == max_cnt) cout << p.second << el;
     }
-    int ans = 0;
-    rep(i, m){
-        if(mp[i+1] == n) ans++;
-    }
-    cout << ans << el;
     return 0;
 }

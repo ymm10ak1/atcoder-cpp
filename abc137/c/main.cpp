@@ -20,17 +20,11 @@ int main(){
     rep(i, n) cin >> s[i];
     rep(i, n) sort(all(s[i]));
     map<string, int> mp;
-    rep(i, n){
-        if(mp.count(s[i]) == 0) mp[s[i]] = 0;
-        else mp[s[i]]++;
-    }
+    rep(i, n) mp[s[i]]++;
     ll sum = 0;
     for(auto v : mp){
-        if(v.second > 1){
-            for(ll i=v.second; i>=0; --i) sum += i;
-        }else{
-            sum += v.second;
-        }
+        ll vv = (ll)v.second*(v.second-1);
+        sum += vv/2;
     }
     printf("%lld\n", sum);
     return 0;

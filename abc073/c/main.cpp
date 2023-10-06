@@ -1,4 +1,4 @@
-// B - Foods Loved by Everyone
+// C - Write and Erase
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -14,21 +14,14 @@ const int INF = 1e9;
 const ll LINF = 1e18;
 
 int main(){
-    int n, m;
-    cin >> n >> m;
-    vector<int> k(n);
-    map<int, int> mp;
+    int n;
+    cin >> n;
+    vector<int> a(n);
+    set<int> st;
     rep(i, n){
-        cin >> k[i];
-        rep(j, k[i]){
-            int ai; cin >> ai;
-            mp[ai]++;
-        }
+        cin >> a[i];
+        if(st.erase(a[i]) == 0) st.insert(a[i]);
     }
-    int ans = 0;
-    rep(i, m){
-        if(mp[i+1] == n) ans++;
-    }
-    cout << ans << el;
+    cout << st.size() << el;
     return 0;
 }

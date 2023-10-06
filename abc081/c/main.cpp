@@ -1,4 +1,4 @@
-// B - Foods Loved by Everyone
+// C - Not so Deverse
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -14,21 +14,25 @@ const int INF = 1e9;
 const ll LINF = 1e18;
 
 int main(){
-    int n, m;
-    cin >> n >> m;
-    vector<int> k(n);
-    map<int, int> mp;
+    int n, k;
+    cin >> n >> k;
+    vector<int> a(n);
+    vector<int> cnt(200010, 0);
     rep(i, n){
-        cin >> k[i];
-        rep(j, k[i]){
-            int ai; cin >> ai;
-            mp[ai]++;
-        }
+        cin >> a[i];
+        cnt[a[i]]++;
     }
+    int balls = 0;
+    rep(i, cnt.size()) if(cnt[i] != 0) ++balls;
+    int diff = balls-k;
+    sort(all(cnt));
     int ans = 0;
-    rep(i, m){
-        if(mp[i+1] == n) ans++;
+    rep(i, cnt.size()){
+        if(cnt[i] == 0) continue;
+        if(diff <= 0) break;
+        ans += cnt[i];
+        diff--;
     }
-    cout << ans << el;
+    printf("%d\n", ans);
     return 0;
 }
