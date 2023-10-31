@@ -1,4 +1,4 @@
-// C - Minimization
+// A - Alloy
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -14,19 +14,10 @@ const int INF = 1e9;
 const ll LINF = 1e18;
 
 int main(){
-    int n, k;
-    cin >> n >> k;
-    vector<int> a(n);
-    rep(i, n) cin >> a[i];
-    // 解説しているサイトを見て実装
-    // 最小個数の区間を求める
-    int ans = 0, num = 0;
-    while(true){
-        if(num == 0) num += k;
-        else num += k-1;
-        ans++;
-        if(num >= n) break;
-    }
-    cout << ans << el;
+    int a, b;
+    cin >> a >> b;
+    if(a>0 && b==0) cout << "Gold" << el;
+    else if(a==0 && b>0) cout << "Silver" << el;
+    else cout << "Alloy" << el;
     return 0;
 }

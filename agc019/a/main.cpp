@@ -1,4 +1,4 @@
-// C - Minimization
+// A - Ice Tea Store 
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -14,18 +14,15 @@ const int INF = 1e9;
 const ll LINF = 1e18;
 
 int main(){
-    int n, k;
-    cin >> n >> k;
-    vector<int> a(n);
-    rep(i, n) cin >> a[i];
-    // 解説しているサイトを見て実装
-    // 最小個数の区間を求める
-    int ans = 0, num = 0;
-    while(true){
-        if(num == 0) num += k;
-        else num += k-1;
-        ans++;
-        if(num >= n) break;
+    int q, h, s, d, n;
+    cin >> q >> h >> s >> d >> n;
+    ll ans = 0;
+    if(n > 1){
+        // q, h, sを2Lの価格に変更し、一番小さいものを使用する
+        ans = 1LL*(n/2)*min(q*8, min(h*4, min(s*2, d)));
+    }
+    if(n%2 == 1){
+        ans += min(q*4, min(h*2, s));
     }
     cout << ans << el;
     return 0;

@@ -1,4 +1,4 @@
-// C - Minimization
+// D - Star or Not 
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -14,19 +14,25 @@ const int INF = 1e9;
 const ll LINF = 1e18;
 
 int main(){
-    int n, k;
-    cin >> n >> k;
-    vector<int> a(n);
-    rep(i, n) cin >> a[i];
-    // 解説しているサイトを見て実装
-    // 最小個数の区間を求める
-    int ans = 0, num = 0;
-    while(true){
-        if(num == 0) num += k;
-        else num += k-1;
-        ans++;
-        if(num >= n) break;
+    int n;
+    cin >> n;
+    vector<vector<int>> g(n);
+    rep(i, n-1){
+        int a, b;
+        cin >> a >> b;
+        a--; b--;
+        g[a].push_back(b);
+        g[b].push_back(a);
     }
-    cout << ans << el;
+    bool ok = false;
+    rep(i, n){
+        int cnt = 0;
+        for(auto v : g[i]){
+            cnt++;
+        }
+        if(cnt == n-1) ok = true;
+    }
+    if(ok) cout << "Yes" << el;
+    else cout << "No" << el;
     return 0;
 }

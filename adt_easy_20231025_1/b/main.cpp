@@ -1,4 +1,4 @@
-// C - Minimization
+// B - Nine
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -14,19 +14,16 @@ const int INF = 1e9;
 const ll LINF = 1e18;
 
 int main(){
-    int n, k;
-    cin >> n >> k;
-    vector<int> a(n);
-    rep(i, n) cin >> a[i];
-    // 解説しているサイトを見て実装
-    // 最小個数の区間を求める
-    int ans = 0, num = 0;
-    while(true){
-        if(num == 0) num += k;
-        else num += k-1;
-        ans++;
-        if(num >= n) break;
+    int a, b;
+    cin >> a >> b;
+    if(b-a == 1){
+        if((a==3 && b==4) || (a==6 && b==7)){
+            cout << "No" << el;
+        }else{
+            cout << "Yes" << el;
+        }
+        return 0;
     }
-    cout << ans << el;
+    cout << "No" << el;
     return 0;
 }

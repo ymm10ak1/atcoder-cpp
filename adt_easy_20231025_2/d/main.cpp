@@ -1,4 +1,4 @@
-// C - Minimization
+// D - Call the ID Number
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -14,19 +14,24 @@ const int INF = 1e9;
 const ll LINF = 1e18;
 
 int main(){
-    int n, k;
-    cin >> n >> k;
+    int n;
+    cin >> n;
     vector<int> a(n);
     rep(i, n) cin >> a[i];
-    // 解説しているサイトを見て実装
-    // 最小個数の区間を求める
-    int ans = 0, num = 0;
-    while(true){
-        if(num == 0) num += k;
-        else num += k-1;
-        ans++;
-        if(num >= n) break;
+    vector<bool> cnt(n+1, false);
+    rep(i, n){
+        if(!cnt[i+1]) cnt[a[i]] = true;
     }
-    cout << ans << el;
+    vector<int> k;
+    repi(i, 1, n+1){
+        if(!cnt[i]) k.push_back(i);
+    }
+    sort(all(k));
+    cout << k.size() << el;
+    rep(i, k.size()){
+        cout << k[i];
+        if(i == k.size()-1) cout << el;
+        else cout << " ";
+    }
     return 0;
 }

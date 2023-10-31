@@ -1,4 +1,4 @@
-// C - Minimization
+// E - Many Balls 
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -14,19 +14,19 @@ const int INF = 1e9;
 const ll LINF = 1e18;
 
 int main(){
-    int n, k;
-    cin >> n >> k;
-    vector<int> a(n);
-    rep(i, n) cin >> a[i];
-    // 解説しているサイトを見て実装
-    // 最小個数の区間を求める
-    int ans = 0, num = 0;
-    while(true){
-        if(num == 0) num += k;
-        else num += k-1;
-        ans++;
-        if(num >= n) break;
+    ll n;
+    cin >> n;
+    string ans = "";
+    while(n){
+        if(n%2 == 0){
+            n /= 2;
+            ans += "B";
+        }else{
+            n -= 1;
+            ans += "A";
+        }
     }
+    reverse(ans.begin(), ans.end());
     cout << ans << el;
     return 0;
 }

@@ -1,4 +1,4 @@
-// C - Minimization
+// Greedy Takahashi
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -14,19 +14,13 @@ const int INF = 1e9;
 const ll LINF = 1e18;
 
 int main(){
-    int n, k;
-    cin >> n >> k;
-    vector<int> a(n);
-    rep(i, n) cin >> a[i];
-    // 解説しているサイトを見て実装
-    // 最小個数の区間を求める
-    int ans = 0, num = 0;
-    while(true){
-        if(num == 0) num += k;
-        else num += k-1;
-        ans++;
-        if(num >= n) break;
+    ll a, b, k;
+    cin >> a >> b >> k;
+    if(a < k){
+        ll b_res = b-(k-a) < 0 ? 0 : b-(k-a);
+        cout << 0 << " " << b_res << el;
+    }else{
+        cout << a-k << " " << b << el;
     }
-    cout << ans << el;
     return 0;
 }

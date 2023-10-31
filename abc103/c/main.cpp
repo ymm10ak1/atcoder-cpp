@@ -1,4 +1,4 @@
-// C - Minimization
+// C - Modulo Summation 
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -14,18 +14,13 @@ const int INF = 1e9;
 const ll LINF = 1e18;
 
 int main(){
-    int n, k;
-    cin >> n >> k;
+    int n;
+    cin >> n;
     vector<int> a(n);
     rep(i, n) cin >> a[i];
-    // 解説しているサイトを見て実装
-    // 最小個数の区間を求める
-    int ans = 0, num = 0;
-    while(true){
-        if(num == 0) num += k;
-        else num += k-1;
-        ans++;
-        if(num >= n) break;
+    ll ans = 0;
+    rep(i, n){
+        ans += a[i]-1;
     }
     cout << ans << el;
     return 0;

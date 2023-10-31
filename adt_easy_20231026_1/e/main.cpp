@@ -1,4 +1,4 @@
-// C - Minimization
+// E - Centers
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -14,19 +14,23 @@ const int INF = 1e9;
 const ll LINF = 1e18;
 
 int main(){
-    int n, k;
-    cin >> n >> k;
-    vector<int> a(n);
-    rep(i, n) cin >> a[i];
-    // 解説しているサイトを見て実装
-    // 最小個数の区間を求める
-    int ans = 0, num = 0;
-    while(true){
-        if(num == 0) num += k;
-        else num += k-1;
-        ans++;
-        if(num >= n) break;
+    int n;
+    cin >> n;
+    vector<pair<int, int>> a(3*n);
+    rep(i, 3*n){
+        cin >> a[i].first;
+        a[i].second = i;
     }
-    cout << ans << el;
+    sort(all(a));
+    vector<pair<int, int>> res;
+    for(int i=1; i<3*n; i+=3){
+        res.push_back(make_pair(a[i].second, a[i].first));
+    }
+    sort(all(res));
+    rep(i, res.size()){
+        cout << res[i].second;
+        if(i == res.size()-1) cout << el;
+        else cout << " ";
+    }
     return 0;
 }

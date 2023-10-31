@@ -1,4 +1,4 @@
-// C - Minimization
+// C - Go Straight and Turn Right
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -14,19 +14,21 @@ const int INF = 1e9;
 const ll LINF = 1e18;
 
 int main(){
-    int n, k;
-    cin >> n >> k;
-    vector<int> a(n);
-    rep(i, n) cin >> a[i];
-    // 解説しているサイトを見て実装
-    // 最小個数の区間を求める
-    int ans = 0, num = 0;
-    while(true){
-        if(num == 0) num += k;
-        else num += k-1;
-        ans++;
-        if(num >= n) break;
+    int n;
+    string t;
+    cin >> n >> t;
+    int x = 0, y = 0;
+    int r = 0;
+    rep(i, t.size()){
+        if(t[i] == 'S'){
+            if(r == 0) x++;
+            else if(r == 1) y--;
+            else if(r == 2) x--;
+            else if(r == 3) y++;
+        }else{
+            r = (r+1)%4;
+        }
     }
-    cout << ans << el;
+    cout << x << " " << y << el;
     return 0;
 }

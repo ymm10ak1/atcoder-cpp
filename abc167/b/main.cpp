@@ -1,4 +1,4 @@
-// C - Minimization
+// B - Easy Linear Programming
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -14,19 +14,14 @@ const int INF = 1e9;
 const ll LINF = 1e18;
 
 int main(){
-    int n, k;
-    cin >> n >> k;
-    vector<int> a(n);
-    rep(i, n) cin >> a[i];
-    // 解説しているサイトを見て実装
-    // 最小個数の区間を求める
-    int ans = 0, num = 0;
-    while(true){
-        if(num == 0) num += k;
-        else num += k-1;
-        ans++;
-        if(num >= n) break;
+    ll a, b, c, k;
+    cin >> a >> b >> c >> k;
+    if(a >= k){
+        cout << k << el;
+    }else if(k <= a+b){
+        cout << a << el;
+    }else{
+        cout << a-(k-a-b) << el;
     }
-    cout << ans << el;
     return 0;
 }
