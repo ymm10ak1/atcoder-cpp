@@ -1,4 +1,4 @@
-// D - Megalomania
+// 014 - We Used to Sing a Song Tgether(★3)
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -15,17 +15,13 @@ const ll LLINF = 1e18;
 int main(){
     int n;
     cin >> n;
-    vector<pair<int, int>> a(n);
-    rep(i, n) cin >> a[i].second >> a[i].first;
+    vector<int> a(n), b(n);
+    rep(i, n) cin >> a[i];
+    rep(i, n) cin >> b[i];
     sort(all(a));
-    ll t = 0;
-    rep(i, n){
-        t += a[i].second;
-        if(t > a[i].first){
-            cout << "No" << el;
-            return 0;
-        }
-    }
-    cout << "Yes" << el;
+    sort(all(b));
+    ll ans = 0;
+    rep(i, n) ans += abs(a[i]-b[i]);
+    cout << ans << el;
     return 0;
 }

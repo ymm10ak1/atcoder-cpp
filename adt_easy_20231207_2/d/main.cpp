@@ -1,4 +1,4 @@
-// D - Megalomania
+// 
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -13,19 +13,22 @@ const int INF = 1e9;
 const ll LLINF = 1e18;
 
 int main(){
-    int n;
-    cin >> n;
-    vector<pair<int, int>> a(n);
-    rep(i, n) cin >> a[i].second >> a[i].first;
-    sort(all(a));
-    ll t = 0;
-    rep(i, n){
-        t += a[i].second;
-        if(t > a[i].first){
-            cout << "No" << el;
-            return 0;
-        }
+    int n, m;
+    cin >> n >> m;
+    vector<string> c(n), d(m);
+    vector<int> p(m+1);
+    rep(i, n) cin >> c[i];
+    rep(i, m) cin >> d[i];
+    rep(i, m+1) cin >> p[i];
+    map<string, int> mp;
+    rep(i, m){
+        mp[d[i]] = p[i+1];
     }
-    cout << "Yes" << el;
+    int ans = 0;
+    rep(i, n){
+        if(mp[c[i]] > 0) ans += mp[c[i]];
+        else ans += p[0];
+    }
+    cout << ans << el;
     return 0;
 }

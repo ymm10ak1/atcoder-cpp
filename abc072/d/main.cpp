@@ -1,4 +1,4 @@
-// D - Megalomania
+// D - Derangement
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -15,17 +15,15 @@ const ll LLINF = 1e18;
 int main(){
     int n;
     cin >> n;
-    vector<pair<int, int>> a(n);
-    rep(i, n) cin >> a[i].second >> a[i].first;
-    sort(all(a));
-    ll t = 0;
+    vector<int> p(n);
+    rep(i, n) cin >> p[i];
+    int cnt = 0, ans = 0;
     rep(i, n){
-        t += a[i].second;
-        if(t > a[i].first){
-            cout << "No" << el;
-            return 0;
+        if(i+1 == p[i]){
+            ++ans;
+            if(i<n-1 && i+2==p[i+1]) ++i;
         }
     }
-    cout << "Yes" << el;
+    cout << ans << el;
     return 0;
 }
