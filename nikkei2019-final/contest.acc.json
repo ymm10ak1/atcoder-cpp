@@ -1,0 +1,62 @@
+{
+  "contest": {
+    "id": "nikkei2019-final",
+    "title": "全国統一プログラミング王決定戦本戦",
+    "url": "https://atcoder.jp/contests/nikkei2019-final"
+  },
+  "tasks": [
+    {
+      "id": "nikkei2019_final_a",
+      "label": "A",
+      "title": "Abundant Resources",
+      "url": "https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "nikkei2019_final_b",
+      "label": "B",
+      "title": "Big Integers",
+      "url": "https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_b"
+    },
+    {
+      "id": "nikkei2019_final_c",
+      "label": "C",
+      "title": "Come Together",
+      "url": "https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_c"
+    },
+    {
+      "id": "nikkei2019_final_d",
+      "label": "D",
+      "title": "Deforestation",
+      "url": "https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_d"
+    },
+    {
+      "id": "nikkei2019_final_e",
+      "label": "E",
+      "title": "Erasure",
+      "url": "https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_e"
+    },
+    {
+      "id": "nikkei2019_final_f",
+      "label": "F",
+      "title": "Flights",
+      "url": "https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_f"
+    },
+    {
+      "id": "nikkei2019_final_g",
+      "label": "G",
+      "title": "Greatest Journey",
+      "url": "https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_g"
+    },
+    {
+      "id": "nikkei2019_final_h",
+      "label": "H",
+      "title": "Homework Scheduling",
+      "url": "https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_h"
+    }
+  ]
+}

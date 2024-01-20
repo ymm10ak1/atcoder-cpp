@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc040",
+    "title": "AtCoder Grand Contest 040",
+    "url": "https://atcoder.jp/contests/agc040"
+  },
+  "tasks": [
+    {
+      "id": "agc040_a",
+      "label": "A",
+      "title": "><",
+      "url": "https://atcoder.jp/contests/agc040/tasks/agc040_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "agc040_b",
+      "label": "B",
+      "title": "Two Contests",
+      "url": "https://atcoder.jp/contests/agc040/tasks/agc040_b"
+    },
+    {
+      "id": "agc040_c",
+      "label": "C",
+      "title": "Neither AB nor BA",
+      "url": "https://atcoder.jp/contests/agc040/tasks/agc040_c"
+    },
+    {
+      "id": "agc040_d",
+      "label": "D",
+      "title": "Balance Beam",
+      "url": "https://atcoder.jp/contests/agc040/tasks/agc040_d"
+    },
+    {
+      "id": "agc040_e",
+      "label": "E",
+      "title": "Prefix Suffix Addition",
+      "url": "https://atcoder.jp/contests/agc040/tasks/agc040_e"
+    },
+    {
+      "id": "agc040_f",
+      "label": "F",
+      "title": "Two Pieces",
+      "url": "https://atcoder.jp/contests/agc040/tasks/agc040_f"
+    }
+  ]
+}

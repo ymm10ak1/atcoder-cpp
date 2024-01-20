@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20231102_2",
+    "title": "AtCoder Daily Training EASY 2023/11/2 18:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20231102_2"
+  },
+  "tasks": [
+    {
+      "id": "abc236_a",
+      "label": "A",
+      "title": "chukodai",
+      "url": "https://atcoder.jp/contests/adt_easy_20231102_2/tasks/abc236_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc242_a",
+      "label": "B",
+      "title": "T-shirt",
+      "url": "https://atcoder.jp/contests/adt_easy_20231102_2/tasks/abc242_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc216_b",
+      "label": "C",
+      "title": "Same Name",
+      "url": "https://atcoder.jp/contests/adt_easy_20231102_2/tasks/abc216_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc226_b",
+      "label": "D",
+      "title": "Counting Arrays",
+      "url": "https://atcoder.jp/contests/adt_easy_20231102_2/tasks/abc226_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc263_c",
+      "label": "E",
+      "title": "Monotonically Increasing",
+      "url": "https://atcoder.jp/contests/adt_easy_20231102_2/tasks/abc263_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

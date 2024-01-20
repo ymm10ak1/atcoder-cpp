@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20231108_2",
+    "title": "AtCoder Daily Training EASY 2023/11/8 18:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20231108_2"
+  },
+  "tasks": [
+    {
+      "id": "abc246_a",
+      "label": "A",
+      "title": "Four Points",
+      "url": "https://atcoder.jp/contests/adt_easy_20231108_2/tasks/abc246_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc217_a",
+      "label": "B",
+      "title": "Lexicographic Order",
+      "url": "https://atcoder.jp/contests/adt_easy_20231108_2/tasks/abc217_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc245_b",
+      "label": "C",
+      "title": "Mex",
+      "url": "https://atcoder.jp/contests/adt_easy_20231108_2/tasks/abc245_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc271_b",
+      "label": "D",
+      "title": "Maintain Multiple Sequences",
+      "url": "https://atcoder.jp/contests/adt_easy_20231108_2/tasks/abc271_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc197_c",
+      "label": "E",
+      "title": "ORXOR",
+      "url": "https://atcoder.jp/contests/adt_easy_20231108_2/tasks/abc197_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

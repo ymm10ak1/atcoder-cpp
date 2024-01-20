@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20231101_2",
+    "title": "AtCoder Daily Training EASY 2023/11/1 18:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20231101_2"
+  },
+  "tasks": [
+    {
+      "id": "abc266_a",
+      "label": "A",
+      "title": "Middle  Letter",
+      "url": "https://atcoder.jp/contests/adt_easy_20231101_2/tasks/abc266_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc220_a",
+      "label": "B",
+      "title": "Find Multiple",
+      "url": "https://atcoder.jp/contests/adt_easy_20231101_2/tasks/abc220_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc227_b",
+      "label": "C",
+      "title": "KEYENCE building",
+      "url": "https://atcoder.jp/contests/adt_easy_20231101_2/tasks/abc227_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc261_b",
+      "label": "D",
+      "title": "Tournament Result",
+      "url": "https://atcoder.jp/contests/adt_easy_20231101_2/tasks/abc261_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc201_c",
+      "label": "E",
+      "title": "Secret Number",
+      "url": "https://atcoder.jp/contests/adt_easy_20231101_2/tasks/abc201_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

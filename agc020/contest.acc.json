@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc020",
+    "title": "AtCoder Grand Contest 020",
+    "url": "https://atcoder.jp/contests/agc020"
+  },
+  "tasks": [
+    {
+      "id": "agc020_a",
+      "label": "A",
+      "title": "Move and Win",
+      "url": "https://atcoder.jp/contests/agc020/tasks/agc020_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "agc020_b",
+      "label": "B",
+      "title": "Ice Rink Game",
+      "url": "https://atcoder.jp/contests/agc020/tasks/agc020_b"
+    },
+    {
+      "id": "agc020_c",
+      "label": "C",
+      "title": "Median Sum",
+      "url": "https://atcoder.jp/contests/agc020/tasks/agc020_c"
+    },
+    {
+      "id": "agc020_d",
+      "label": "D",
+      "title": "Min Max Repetition",
+      "url": "https://atcoder.jp/contests/agc020/tasks/agc020_d"
+    },
+    {
+      "id": "agc020_e",
+      "label": "E",
+      "title": "Encoding Subsets",
+      "url": "https://atcoder.jp/contests/agc020/tasks/agc020_e"
+    },
+    {
+      "id": "agc020_f",
+      "label": "F",
+      "title": "Arcs on a Circle",
+      "url": "https://atcoder.jp/contests/agc020/tasks/agc020_f"
+    }
+  ]
+}

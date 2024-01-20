@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20231115_2",
+    "title": "AtCoder Daily Training EASY 2023/11/15 18:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20231115_2"
+  },
+  "tasks": [
+    {
+      "id": "abc245_a",
+      "label": "A",
+      "title": "Good morning",
+      "url": "https://atcoder.jp/contests/adt_easy_20231115_2/tasks/abc245_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc303_a",
+      "label": "B",
+      "title": "Similar String",
+      "url": "https://atcoder.jp/contests/adt_easy_20231115_2/tasks/abc303_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc277_b",
+      "label": "C",
+      "title": "Playing Cards Validation",
+      "url": "https://atcoder.jp/contests/adt_easy_20231115_2/tasks/abc277_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc276_b",
+      "label": "D",
+      "title": "Adjacency List",
+      "url": "https://atcoder.jp/contests/adt_easy_20231115_2/tasks/abc276_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc247_c",
+      "label": "E",
+      "title": "1 2 1 3 1 2 1",
+      "url": "https://atcoder.jp/contests/adt_easy_20231115_2/tasks/abc247_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

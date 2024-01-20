@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20231214_2",
+    "title": "AtCoder Daily Training EASY 2023/12/14 18:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20231214_2"
+  },
+  "tasks": [
+    {
+      "id": "abc223_a",
+      "label": "A",
+      "title": "Exact Price",
+      "url": "https://atcoder.jp/contests/adt_easy_20231214_2/tasks/abc223_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc249_a",
+      "label": "B",
+      "title": "Jogging",
+      "url": "https://atcoder.jp/contests/adt_easy_20231214_2/tasks/abc249_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc233_b",
+      "label": "C",
+      "title": "A Reverse",
+      "url": "https://atcoder.jp/contests/adt_easy_20231214_2/tasks/abc233_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc318_b",
+      "label": "D",
+      "title": "Overlapping sheets",
+      "url": "https://atcoder.jp/contests/adt_easy_20231214_2/tasks/abc318_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc267_c",
+      "label": "E",
+      "title": "Index × A(Continuous ver.)",
+      "url": "https://atcoder.jp/contests/adt_easy_20231214_2/tasks/abc267_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

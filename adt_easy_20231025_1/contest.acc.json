@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20231025_1",
+    "title": "AtCoder Daily Training EASY 2023/10/2516:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20231025_1"
+  },
+  "tasks": [
+    {
+      "id": "abc212_a",
+      "label": "A",
+      "title": "Alloy",
+      "url": "https://atcoder.jp/contests/adt_easy_20231025_1/tasks/abc212_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc309_a",
+      "label": "B",
+      "title": "Nine",
+      "url": "https://atcoder.jp/contests/adt_easy_20231025_1/tasks/abc309_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc253_b",
+      "label": "C",
+      "title": "Distance Between Tokens",
+      "url": "https://atcoder.jp/contests/adt_easy_20231025_1/tasks/abc253_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc225_b",
+      "label": "D",
+      "title": "Star or Not",
+      "url": "https://atcoder.jp/contests/adt_easy_20231025_1/tasks/abc225_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc216_c",
+      "label": "E",
+      "title": "Many Balls",
+      "url": "https://atcoder.jp/contests/adt_easy_20231025_1/tasks/abc216_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

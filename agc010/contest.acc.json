@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc010",
+    "title": "AtCoder Grand Contest 010",
+    "url": "https://atcoder.jp/contests/agc010"
+  },
+  "tasks": [
+    {
+      "id": "agc010_a",
+      "label": "A",
+      "title": "Addition",
+      "url": "https://atcoder.jp/contests/agc010/tasks/agc010_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "agc010_b",
+      "label": "B",
+      "title": "Boxes",
+      "url": "https://atcoder.jp/contests/agc010/tasks/agc010_b"
+    },
+    {
+      "id": "agc010_c",
+      "label": "C",
+      "title": "Cleaning",
+      "url": "https://atcoder.jp/contests/agc010/tasks/agc010_c"
+    },
+    {
+      "id": "agc010_d",
+      "label": "D",
+      "title": "Decrementing",
+      "url": "https://atcoder.jp/contests/agc010/tasks/agc010_d"
+    },
+    {
+      "id": "agc010_e",
+      "label": "E",
+      "title": "Rearranging",
+      "url": "https://atcoder.jp/contests/agc010/tasks/agc010_e"
+    },
+    {
+      "id": "agc010_f",
+      "label": "F",
+      "title": "Tree Game",
+      "url": "https://atcoder.jp/contests/agc010/tasks/agc010_f"
+    }
+  ]
+}

@@ -4,8 +4,6 @@
 *.sh
 *.out
 *.in
-contest.acc.json
-test/
 .vscode/
 memo.md
 memocpp/

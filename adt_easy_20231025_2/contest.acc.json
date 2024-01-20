@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20231025_2",
+    "title": "AtCoder Daily Training EASY 2023/10/25 18:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20231025_2"
+  },
+  "tasks": [
+    {
+      "id": "abc214_a",
+      "label": "A",
+      "title": "New Generation ABC",
+      "url": "https://atcoder.jp/contests/adt_easy_20231025_2/tasks/abc214_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc237_a",
+      "label": "B",
+      "title": "Not Overflow",
+      "url": "https://atcoder.jp/contests/adt_easy_20231025_2/tasks/abc237_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc264_b",
+      "label": "C",
+      "title": "Nice Grid",
+      "url": "https://atcoder.jp/contests/adt_easy_20231025_2/tasks/abc264_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc293_b",
+      "label": "D",
+      "title": "Call the ID Number",
+      "url": "https://atcoder.jp/contests/adt_easy_20231025_2/tasks/abc293_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc296_c",
+      "label": "E",
+      "title": "Gap Existence",
+      "url": "https://atcoder.jp/contests/adt_easy_20231025_2/tasks/abc296_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

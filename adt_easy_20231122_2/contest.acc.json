@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20231122_2",
+    "title": "AtCoder Daily Training EASY 2023/11/22 18:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20231122_2"
+  },
+  "tasks": [
+    {
+      "id": "abc239_a",
+      "label": "A",
+      "title": "Horizon",
+      "url": "https://atcoder.jp/contests/adt_easy_20231122_2/tasks/abc239_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc288_a",
+      "label": "B",
+      "title": "Many A+B Problems",
+      "url": "https://atcoder.jp/contests/adt_easy_20231122_2/tasks/abc288_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc288_b",
+      "label": "C",
+      "title": "Qualification Contest",
+      "url": "https://atcoder.jp/contests/adt_easy_20231122_2/tasks/abc288_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc256_b",
+      "label": "D",
+      "title": "Batters",
+      "url": "https://atcoder.jp/contests/adt_easy_20231122_2/tasks/abc256_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc244_c",
+      "label": "E",
+      "title": "Yamanote Line Game",
+      "url": "https://atcoder.jp/contests/adt_easy_20231122_2/tasks/abc244_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

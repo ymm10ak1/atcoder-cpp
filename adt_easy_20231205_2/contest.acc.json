@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20231205_2",
+    "title": "AtCoder Daily Training EASY 2023/12/5 17:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20231205_2"
+  },
+  "tasks": [
+    {
+      "id": "abc258_a",
+      "label": "A",
+      "title": "When?",
+      "url": "https://atcoder.jp/contests/adt_easy_20231205_2/tasks/abc258_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc304_a",
+      "label": "B",
+      "title": "First Player",
+      "url": "https://atcoder.jp/contests/adt_easy_20231205_2/tasks/abc304_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc224_b",
+      "label": "C",
+      "title": "Mongeness",
+      "url": "https://atcoder.jp/contests/adt_easy_20231205_2/tasks/abc224_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc287_b",
+      "label": "D",
+      "title": "Postal Card",
+      "url": "https://atcoder.jp/contests/adt_easy_20231205_2/tasks/abc287_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc300_c",
+      "label": "E",
+      "title": "Cross",
+      "url": "https://atcoder.jp/contests/adt_easy_20231205_2/tasks/abc300_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

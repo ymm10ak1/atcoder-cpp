@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20231122_1",
+    "title": "AtCoder Daily Training EASY 2023/11/22 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20231122_1"
+  },
+  "tasks": [
+    {
+      "id": "abc244_a",
+      "label": "A",
+      "title": "Last Letter",
+      "url": "https://atcoder.jp/contests/adt_easy_20231122_1/tasks/abc244_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc292_a",
+      "label": "B",
+      "title": "CAPS LOCK",
+      "url": "https://atcoder.jp/contests/adt_easy_20231122_1/tasks/abc292_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc239_b",
+      "label": "C",
+      "title": "Integer Division",
+      "url": "https://atcoder.jp/contests/adt_easy_20231122_1/tasks/abc239_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc312_b",
+      "label": "D",
+      "title": "TaK Code",
+      "url": "https://atcoder.jp/contests/adt_easy_20231122_1/tasks/abc312_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc276_c",
+      "label": "E",
+      "title": "Previous Permutation",
+      "url": "https://atcoder.jp/contests/adt_easy_20231122_1/tasks/abc276_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20231123_2",
+    "title": "AtCoder Daily Training EASY 2023/11/23 18:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20231123_2"
+  },
+  "tasks": [
+    {
+      "id": "abc247_a",
+      "label": "A",
+      "title": "Move Right",
+      "url": "https://atcoder.jp/contests/adt_easy_20231123_2/tasks/abc247_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc290_a",
+      "label": "B",
+      "title": "Contest Result",
+      "url": "https://atcoder.jp/contests/adt_easy_20231123_2/tasks/abc290_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc283_b",
+      "label": "C",
+      "title": "First Query Problem",
+      "url": "https://atcoder.jp/contests/adt_easy_20231123_2/tasks/abc283_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc228_b",
+      "label": "D",
+      "title": "Takahashi's Secret",
+      "url": "https://atcoder.jp/contests/adt_easy_20231123_2/tasks/abc228_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc236_c",
+      "label": "E",
+      "title": "Route Map",
+      "url": "https://atcoder.jp/contests/adt_easy_20231123_2/tasks/abc236_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

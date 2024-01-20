@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20231123_1",
+    "title": "AtCoder Daily Training EASY 2023/11/23 16:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20231123_1"
+  },
+  "tasks": [
+    {
+      "id": "abc269_a",
+      "label": "A",
+      "title": "Anyway Takahashi",
+      "url": "https://atcoder.jp/contests/adt_easy_20231123_1/tasks/abc269_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc229_a",
+      "label": "B",
+      "title": "First Grid",
+      "url": "https://atcoder.jp/contests/adt_easy_20231123_1/tasks/abc229_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc286_b",
+      "label": "C",
+      "title": "Cat",
+      "url": "https://atcoder.jp/contests/adt_easy_20231123_1/tasks/abc286_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc221_b",
+      "label": "D",
+      "title": "typo",
+      "url": "https://atcoder.jp/contests/adt_easy_20231123_1/tasks/abc221_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc243_c",
+      "label": "E",
+      "title": "Collision 2",
+      "url": "https://atcoder.jp/contests/adt_easy_20231123_1/tasks/abc243_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

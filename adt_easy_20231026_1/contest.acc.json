@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20231026_1",
+    "title": "AtCoder Daily Training EASY 2023/10/26 16:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20231026_1"
+  },
+  "tasks": [
+    {
+      "id": "abc223_a",
+      "label": "A",
+      "title": "Exact Price",
+      "url": "https://atcoder.jp/contests/adt_easy_20231026_1/tasks/abc223_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc310_a",
+      "label": "B",
+      "title": "Order Something Else",
+      "url": "https://atcoder.jp/contests/adt_easy_20231026_1/tasks/abc310_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc268_b",
+      "label": "C",
+      "title": "Prefix?",
+      "url": "https://atcoder.jp/contests/adt_easy_20231026_1/tasks/abc268_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc289_b",
+      "label": "D",
+      "title": "V",
+      "url": "https://atcoder.jp/contests/adt_easy_20231026_1/tasks/abc289_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc306_c",
+      "label": "E",
+      "title": "Centers",
+      "url": "https://atcoder.jp/contests/adt_easy_20231026_1/tasks/abc306_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

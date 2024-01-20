@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20231026_2",
+    "title": "AtCoder Daily Training EASY 2023/10/26 18:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20231026_2"
+  },
+  "tasks": [
+    {
+      "id": "abc305_a",
+      "label": "A",
+      "title": "Water Station",
+      "url": "https://atcoder.jp/contests/adt_easy_20231026_2/tasks/abc305_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc293_a",
+      "label": "B",
+      "title": "Swap Odd and Even",
+      "url": "https://atcoder.jp/contests/adt_easy_20231026_2/tasks/abc293_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc244_b",
+      "label": "C",
+      "title": "Go Straight and Turn Right",
+      "url": "https://atcoder.jp/contests/adt_easy_20231026_2/tasks/abc244_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc285_b",
+      "label": "D",
+      "title": "Longest Uncommon Prefix",
+      "url": "https://atcoder.jp/contests/adt_easy_20231026_2/tasks/abc285_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc251_c",
+      "label": "E",
+      "title": "Poem Online Judge",
+      "url": "https://atcoder.jp/contests/adt_easy_20231026_2/tasks/abc251_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

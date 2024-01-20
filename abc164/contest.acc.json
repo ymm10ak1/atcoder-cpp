@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "abc164",
+    "title": "AtCoder Beginner Contest 164",
+    "url": "https://atcoder.jp/contests/abc164"
+  },
+  "tasks": [
+    {
+      "id": "abc164_a",
+      "label": "A",
+      "title": "Sheep and Wolves",
+      "url": "https://atcoder.jp/contests/abc164/tasks/abc164_a"
+    },
+    {
+      "id": "abc164_b",
+      "label": "B",
+      "title": "Battle",
+      "url": "https://atcoder.jp/contests/abc164/tasks/abc164_b"
+    },
+    {
+      "id": "abc164_c",
+      "label": "C",
+      "title": "gacha",
+      "url": "https://atcoder.jp/contests/abc164/tasks/abc164_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test"
+      }
+    },
+    {
+      "id": "abc164_d",
+      "label": "D",
+      "title": "Multiple of 2019",
+      "url": "https://atcoder.jp/contests/abc164/tasks/abc164_d"
+    },
+    {
+      "id": "abc164_e",
+      "label": "E",
+      "title": "Two Currencies",
+      "url": "https://atcoder.jp/contests/abc164/tasks/abc164_e"
+    },
+    {
+      "id": "abc164_f",
+      "label": "F",
+      "title": "I hate Matrix Construction",
+      "url": "https://atcoder.jp/contests/abc164/tasks/abc164_f"
+    }
+  ]
+}

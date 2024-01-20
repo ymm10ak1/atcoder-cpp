@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "abc137",
+    "title": "AtCoder Beginner Contest 137",
+    "url": "https://atcoder.jp/contests/abc137"
+  },
+  "tasks": [
+    {
+      "id": "abc137_a",
+      "label": "A",
+      "title": "+-x",
+      "url": "https://atcoder.jp/contests/abc137/tasks/abc137_a"
+    },
+    {
+      "id": "abc137_b",
+      "label": "B",
+      "title": "One Clue",
+      "url": "https://atcoder.jp/contests/abc137/tasks/abc137_b"
+    },
+    {
+      "id": "abc137_c",
+      "label": "C",
+      "title": "Green Bin",
+      "url": "https://atcoder.jp/contests/abc137/tasks/abc137_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test"
+      }
+    },
+    {
+      "id": "abc137_d",
+      "label": "D",
+      "title": "Summer Vacation",
+      "url": "https://atcoder.jp/contests/abc137/tasks/abc137_d"
+    },
+    {
+      "id": "abc137_e",
+      "label": "E",
+      "title": "Coins Respawn",
+      "url": "https://atcoder.jp/contests/abc137/tasks/abc137_e"
+    },
+    {
+      "id": "abc137_f",
+      "label": "F",
+      "title": "Polynomial Construction",
+      "url": "https://atcoder.jp/contests/abc137/tasks/abc137_f"
+    }
+  ]
+}
