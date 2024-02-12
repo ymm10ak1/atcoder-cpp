@@ -9,7 +9,12 @@
       "id": "tessoku_book_a",
       "label": "A01",
       "title": "The First Problem",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_a"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_a",
+      "directory": {
+        "path": "a01",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_b",
@@ -268,25 +273,45 @@
       "id": "tessoku_book_ai",
       "label": "A35",
       "title": "Game 4",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ai"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ai",
+      "directory": {
+        "path": "a35",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_aj",
       "label": "A36",
       "title": "Travel",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_aj"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_aj",
+      "directory": {
+        "path": "a36",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ak",
       "label": "A37",
       "title": "Travel 2",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ak"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ak",
+      "directory": {
+        "path": "a37",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_al",
       "label": "A38",
       "title": "Black Company 1",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_al"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_al",
+      "directory": {
+        "path": "a38",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "math_and_algorithm_bn",
@@ -298,7 +323,12 @@
       "id": "tessoku_book_an",
       "label": "A40",
       "title": "Triangle",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_an"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_an",
+      "directory": {
+        "path": "a40",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ao",
@@ -723,37 +753,67 @@
       "id": "tessoku_book_dc",
       "label": "B30",
       "title": "Combination 2",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dc"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dc",
+      "directory": {
+        "path": "b30",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_dd",
       "label": "B31",
       "title": "Divisors Hard",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dd"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dd",
+      "directory": {
+        "path": "b31",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_de",
       "label": "B32",
       "title": "Game 5",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_de"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_de",
+      "directory": {
+        "path": "b32",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_df",
       "label": "B33",
       "title": "Game 6",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_df"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_df",
+      "directory": {
+        "path": "b33",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_dg",
       "label": "B34",
       "title": "Game 7",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dg"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dg",
+      "directory": {
+        "path": "b34",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_di",
       "label": "B36",
       "title": "Switching Lights",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_di"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_di",
+      "directory": {
+        "path": "b36",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_dj",
@@ -765,19 +825,34 @@
       "id": "tessoku_book_dk",
       "label": "B38",
       "title": "Heights of Grass",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dk"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dk",
+      "directory": {
+        "path": "b38",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_dl",
       "label": "B39",
       "title": "Taro's Job",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dl"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dl",
+      "directory": {
+        "path": "b39",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_dm",
       "label": "B40",
       "title": "Divide by 100",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dm"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dm",
+      "directory": {
+        "path": "b40",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_dn",

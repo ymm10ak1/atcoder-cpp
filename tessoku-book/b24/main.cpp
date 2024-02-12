@@ -27,12 +27,13 @@ int main(){
     // NOTE: xの値のチェックを入れる必要がある
     repi(i, 1, n+1){
         int pos = lower_bound(l+1, l+len+1, p[i-1].second) - l;
-        // TODO: 各長さについてどのxが最後に更新したかを配列checkで記録していくように実装する
-        if(check[pos] != p[i-1].first) check[pos] = p[i-1].first;
-        l[pos] = p[i-1].second;
+        // TODO: 各長さについてどのxiが最後に更新したかを配列checkで記録していくように実装する(まだ実装できていない)
+        if(check[pos-1] != p[i-1].first){
+            check[pos] = p[i-1].first;
+            l[pos] = p[i-1].second;
+        }
         if(pos > len) len += 1;
     }
-    rep(i, n+1) printf("%d%c", l[i], i==n?'\n':' ');
     cout << len << el;
     return 0;
 }
