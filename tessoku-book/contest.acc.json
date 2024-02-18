@@ -352,7 +352,12 @@
       "id": "tessoku_book_ar",
       "label": "A44",
       "title": "Change and Reverse",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ar"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ar",
+      "directory": {
+        "path": "a44",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_as",
@@ -858,25 +863,45 @@
       "id": "tessoku_book_dn",
       "label": "B41",
       "title": "Reverse of Euclid",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dn"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dn",
+      "directory": {
+        "path": "b41",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_do",
       "label": "B42",
       "title": "Two Faced Cards",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_do"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_do",
+      "directory": {
+        "path": "b42",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_dp",
       "label": "B43",
       "title": "Quiz Contest",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dp"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dp",
+      "directory": {
+        "path": "b43",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_dq",
       "label": "B44",
       "title": "Grid Operations",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dq"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dq",
+      "directory": {
+        "path": "b44",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_dr",

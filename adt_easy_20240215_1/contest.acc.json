@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20240215_1",
+    "title": "AtCoder Daily Training EASY 2024/02/15 16:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20240215_1"
+  },
+  "tasks": [
+    {
+      "id": "abc315_a",
+      "label": "A",
+      "title": "tcdr",
+      "url": "https://atcoder.jp/contests/adt_easy_20240215_1/tasks/abc315_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc274_a",
+      "label": "B",
+      "title": "Batting Average",
+      "url": "https://atcoder.jp/contests/adt_easy_20240215_1/tasks/abc274_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc302_b",
+      "label": "C",
+      "title": "Find snuke",
+      "url": "https://atcoder.jp/contests/adt_easy_20240215_1/tasks/abc302_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc244_b",
+      "label": "D",
+      "title": "Go Straight and Turn Right",
+      "url": "https://atcoder.jp/contests/adt_easy_20240215_1/tasks/abc244_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc295_c",
+      "label": "E",
+      "title": "Socks",
+      "url": "https://atcoder.jp/contests/adt_easy_20240215_1/tasks/abc295_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}
