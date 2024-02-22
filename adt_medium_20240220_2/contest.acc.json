@@ -1,0 +1,54 @@
+{
+  "contest": {
+    "id": "adt_medium_20240220_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/02/20 17:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240220_2"
+  },
+  "tasks": [
+    {
+      "id": "abc310_b",
+      "label": "C",
+      "title": "Strictly Superior",
+      "url": "https://atcoder.jp/contests/adt_medium_20240220_2/tasks/abc310_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc298_b",
+      "label": "D",
+      "title": "Coloring Matrix",
+      "url": "https://atcoder.jp/contests/adt_medium_20240220_2/tasks/abc298_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc244_c",
+      "label": "E",
+      "title": "Yamanote Line Game",
+      "url": "https://atcoder.jp/contests/adt_medium_20240220_2/tasks/abc244_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc249_c",
+      "label": "F",
+      "title": "Just K",
+      "url": "https://atcoder.jp/contests/adt_medium_20240220_2/tasks/abc249_c"
+    },
+    {
+      "id": "abc289_d",
+      "label": "G",
+      "title": "Step Up Robot",
+      "url": "https://atcoder.jp/contests/adt_medium_20240220_2/tasks/abc289_d"
+    }
+  ]
+}

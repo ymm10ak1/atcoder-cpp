@@ -363,7 +363,12 @@
       "id": "tessoku_book_as",
       "label": "A45",
       "title": "Card Elimination",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_as"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_as",
+      "directory": {
+        "path": "a45",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_at",
@@ -387,13 +392,23 @@
       "id": "tessoku_book_ay",
       "label": "A51",
       "title": "Stack",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ay"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ay",
+      "directory": {
+        "path": "a51",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_az",
       "label": "A52",
       "title": "Queue",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_az"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_az",
+      "directory": {
+        "path": "a52",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ba",
@@ -907,13 +922,23 @@
       "id": "tessoku_book_dr",
       "label": "B45",
       "title": "Blackboard 2",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dr"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dr",
+      "directory": {
+        "path": "b45",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_dx",
       "label": "B51",
       "title": "Bracket",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dx"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dx",
+      "directory": {
+        "path": "b51",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_dy",
