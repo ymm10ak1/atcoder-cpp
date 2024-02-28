@@ -414,25 +414,45 @@
       "id": "tessoku_book_ba",
       "label": "A53",
       "title": "Priority Queue",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ba"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ba",
+      "directory": {
+        "path": "a53",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_bb",
       "label": "A54",
       "title": "Map",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bb"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bb",
+      "directory": {
+        "path": "a54",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_bc",
       "label": "A55",
       "title": "Set",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bc"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bc",
+      "directory": {
+        "path": "a55",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_bd",
       "label": "A56",
       "title": "String Hash",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bd"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bd",
+      "directory": {
+        "path": "a56",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_be",
@@ -944,25 +964,45 @@
       "id": "tessoku_book_dy",
       "label": "B52",
       "title": "Ball Simulation",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dy"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dy",
+      "directory": {
+        "path": "b52",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ea",
       "label": "B54",
       "title": "Counting Same Values",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ea"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ea",
+      "directory": {
+        "path": "b54",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_eb",
       "label": "B55",
       "title": "Difference",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_eb"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_eb",
+      "directory": {
+        "path": "b55",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ec",
       "label": "B56",
       "title": "Palindrome Queries",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ec"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ec",
+      "directory": {
+        "path": "b56",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ed",

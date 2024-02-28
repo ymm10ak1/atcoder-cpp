@@ -59,7 +59,12 @@
       "id": "dp_f",
       "label": "F",
       "title": "LCS",
-      "url": "https://atcoder.jp/contests/dp/tasks/dp_f"
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "dp_g",
@@ -71,7 +76,12 @@
       "id": "dp_h",
       "label": "H",
       "title": "Grid 1",
-      "url": "https://atcoder.jp/contests/dp/tasks/dp_h"
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_h",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "dp_i",

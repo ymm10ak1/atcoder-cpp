@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "adt_medium_20240227_3",
+    "title": "AtCoder Daily Training MEDIUM 2024/02/27 19:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240227_3"
+  },
+  "tasks": [
+    {
+      "id": "abc322_b",
+      "label": "C",
+      "title": "Prefix and Suffix",
+      "url": "https://atcoder.jp/contests/adt_medium_20240227_3/tasks/abc322_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc327_b",
+      "label": "D",
+      "title": "A^A",
+      "url": "https://atcoder.jp/contests/adt_medium_20240227_3/tasks/abc327_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc279_c",
+      "label": "E",
+      "title": "RANDOM",
+      "url": "https://atcoder.jp/contests/adt_medium_20240227_3/tasks/abc279_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc326_c",
+      "label": "F",
+      "title": "Peak",
+      "url": "https://atcoder.jp/contests/adt_medium_20240227_3/tasks/abc326_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc265_d",
+      "label": "G",
+      "title": "Iroha and Haiku (New ABC Edition)",
+      "url": "https://atcoder.jp/contests/adt_medium_20240227_3/tasks/abc265_d"
+    }
+  ]
+}
