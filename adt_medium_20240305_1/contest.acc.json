@@ -1,0 +1,54 @@
+{
+  "contest": {
+    "id": "adt_medium_20240305_1",
+    "title": "AtCoder Daily Training MEDIUM 2024/03/05 15:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240305_1"
+  },
+  "tasks": [
+    {
+      "id": "abc266_b",
+      "label": "C",
+      "title": "Modulo Number",
+      "url": "https://atcoder.jp/contests/adt_medium_20240305_1/tasks/abc266_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc307_b",
+      "label": "D",
+      "title": "racecar",
+      "url": "https://atcoder.jp/contests/adt_medium_20240305_1/tasks/abc307_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc317_c",
+      "label": "E",
+      "title": "Remembering the Days",
+      "url": "https://atcoder.jp/contests/adt_medium_20240305_1/tasks/abc317_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc333_c",
+      "label": "F",
+      "title": "Repunit Trio",
+      "url": "https://atcoder.jp/contests/adt_medium_20240305_1/tasks/abc333_c"
+    },
+    {
+      "id": "abc249_d",
+      "label": "G",
+      "title": "Index Trio",
+      "url": "https://atcoder.jp/contests/adt_medium_20240305_1/tasks/abc249_d"
+    }
+  ]
+}

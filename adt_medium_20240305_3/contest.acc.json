@@ -1,0 +1,54 @@
+{
+  "contest": {
+    "id": "adt_medium_20240305_3",
+    "title": "AtCoder Daily Training MEDIUM 2024/03/05 19:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240305_3"
+  },
+  "tasks": [
+    {
+      "id": "abc223_b",
+      "label": "C",
+      "title": "String Shifting",
+      "url": "https://atcoder.jp/contests/adt_medium_20240305_3/tasks/abc223_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc287_b",
+      "label": "D",
+      "title": "Postal Card",
+      "url": "https://atcoder.jp/contests/adt_medium_20240305_3/tasks/abc287_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc322_c",
+      "label": "E",
+      "title": "Festival",
+      "url": "https://atcoder.jp/contests/adt_medium_20240305_3/tasks/abc322_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc256_c",
+      "label": "F",
+      "title": "Filling 3x3 array",
+      "url": "https://atcoder.jp/contests/adt_medium_20240305_3/tasks/abc256_c"
+    },
+    {
+      "id": "abc318_d",
+      "label": "G",
+      "title": "General Weighted Max Matching",
+      "url": "https://atcoder.jp/contests/adt_medium_20240305_3/tasks/abc318_d"
+    }
+  ]
+}

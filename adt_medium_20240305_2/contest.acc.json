@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "adt_medium_20240305_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/03/05 17:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240305_2"
+  },
+  "tasks": [
+    {
+      "id": "abc217_b",
+      "label": "C",
+      "title": "AtCoder Quiz",
+      "url": "https://atcoder.jp/contests/adt_medium_20240305_2/tasks/abc217_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc320_b",
+      "label": "D",
+      "title": "Longest Palindrome",
+      "url": "https://atcoder.jp/contests/adt_medium_20240305_2/tasks/abc320_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc276_c",
+      "label": "E",
+      "title": "Previous Permutation",
+      "url": "https://atcoder.jp/contests/adt_medium_20240305_2/tasks/abc276_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc334_c",
+      "label": "F",
+      "title": "Socks 2",
+      "url": "https://atcoder.jp/contests/adt_medium_20240305_2/tasks/abc334_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc251_d",
+      "label": "G",
+      "title": "At Most 3 (Contestant ver.)",
+      "url": "https://atcoder.jp/contests/adt_medium_20240305_2/tasks/abc251_d"
+    }
+  ]
+}

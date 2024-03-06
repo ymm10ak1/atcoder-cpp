@@ -1008,7 +1008,12 @@
       "id": "tessoku_book_ed",
       "label": "B57",
       "title": "Calculator",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ed"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ed",
+      "directory": {
+        "path": "b57",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ee",
