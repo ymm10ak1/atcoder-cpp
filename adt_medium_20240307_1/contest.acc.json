@@ -1,0 +1,54 @@
+{
+  "contest": {
+    "id": "adt_medium_20240307_1",
+    "title": "AtCoder Daily Training MEDIUM 2024/03/07 16:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240307_1"
+  },
+  "tasks": [
+    {
+      "id": "abc290_b",
+      "label": "C",
+      "title": "Qual B",
+      "url": "https://atcoder.jp/contests/adt_medium_20240307_1/tasks/abc290_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc329_b",
+      "label": "D",
+      "title": "Next",
+      "url": "https://atcoder.jp/contests/adt_medium_20240307_1/tasks/abc329_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc323_c",
+      "label": "E",
+      "title": "World Tour Finals",
+      "url": "https://atcoder.jp/contests/adt_medium_20240307_1/tasks/abc323_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc275_c",
+      "label": "F",
+      "title": "Counting Squares",
+      "url": "https://atcoder.jp/contests/adt_medium_20240307_1/tasks/abc275_c"
+    },
+    {
+      "id": "abc338_d",
+      "label": "G",
+      "title": "Island Tour",
+      "url": "https://atcoder.jp/contests/adt_medium_20240307_1/tasks/abc338_d"
+    }
+  ]
+}

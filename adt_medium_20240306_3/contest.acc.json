@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "adt_medium_20240306_3",
+    "title": "AtCoder Daily Training MEDIUM 2024/03/06 20:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240306_3"
+  },
+  "tasks": [
+    {
+      "id": "abc263_b",
+      "label": "C",
+      "title": "Ancestor",
+      "url": "https://atcoder.jp/contests/adt_medium_20240306_3/tasks/abc263_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc270_b",
+      "label": "D",
+      "title": "Hammer",
+      "url": "https://atcoder.jp/contests/adt_medium_20240306_3/tasks/abc270_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc268_c",
+      "label": "E",
+      "title": "Chinese Restaurant",
+      "url": "https://atcoder.jp/contests/adt_medium_20240306_3/tasks/abc268_c"
+    },
+    {
+      "id": "abc307_c",
+      "label": "F",
+      "title": "Ideal Sheet",
+      "url": "https://atcoder.jp/contests/adt_medium_20240306_3/tasks/abc307_c"
+    },
+    {
+      "id": "abc334_d",
+      "label": "G",
+      "title": "Reindeer and Sleigh",
+      "url": "https://atcoder.jp/contests/adt_medium_20240306_3/tasks/abc334_d"
+    }
+  ]
+}

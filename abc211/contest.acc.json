@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "abc211",
+    "title": "AtCoder Beginner Contest 211",
+    "url": "https://atcoder.jp/contests/abc211"
+  },
+  "tasks": [
+    {
+      "id": "abc211_a",
+      "label": "A",
+      "title": "Blood Pressure",
+      "url": "https://atcoder.jp/contests/abc211/tasks/abc211_a"
+    },
+    {
+      "id": "abc211_b",
+      "label": "B",
+      "title": "Cycle Hit",
+      "url": "https://atcoder.jp/contests/abc211/tasks/abc211_b"
+    },
+    {
+      "id": "abc211_c",
+      "label": "C",
+      "title": "chokudai",
+      "url": "https://atcoder.jp/contests/abc211/tasks/abc211_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc211_d",
+      "label": "D",
+      "title": "Number of Shortest paths",
+      "url": "https://atcoder.jp/contests/abc211/tasks/abc211_d"
+    },
+    {
+      "id": "abc211_e",
+      "label": "E",
+      "title": "Red Polyomino",
+      "url": "https://atcoder.jp/contests/abc211/tasks/abc211_e"
+    },
+    {
+      "id": "abc211_f",
+      "label": "F",
+      "title": "Rectilinear Polygons",
+      "url": "https://atcoder.jp/contests/abc211/tasks/abc211_f"
+    }
+  ]
+}

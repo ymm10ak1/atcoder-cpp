@@ -1,0 +1,54 @@
+{
+  "contest": {
+    "id": "adt_medium_20240306_1",
+    "title": "AtCoder Daily Training MEDIUM 2024/03/06 16:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240306_1"
+  },
+  "tasks": [
+    {
+      "id": "abc212_b",
+      "label": "C",
+      "title": "Weak Password",
+      "url": "https://atcoder.jp/contests/adt_medium_20240306_1/tasks/abc212_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc312_b",
+      "label": "D",
+      "title": "TaK Code",
+      "url": "https://atcoder.jp/contests/adt_medium_20240306_1/tasks/abc312_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc250_c",
+      "label": "E",
+      "title": "Adjacent Swaps",
+      "url": "https://atcoder.jp/contests/adt_medium_20240306_1/tasks/abc250_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc255_c",
+      "label": "F",
+      "title": "±1 Operation 1 ",
+      "url": "https://atcoder.jp/contests/adt_medium_20240306_1/tasks/abc255_c"
+    },
+    {
+      "id": "abc279_d",
+      "label": "G",
+      "title": "Freefall",
+      "url": "https://atcoder.jp/contests/adt_medium_20240306_1/tasks/abc279_d"
+    }
+  ]
+}

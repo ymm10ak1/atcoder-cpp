@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "adt_medium_20240307_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/03/07 18:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240307_2"
+  },
+  "tasks": [
+    {
+      "id": "abc262_b",
+      "label": "C",
+      "title": "Triangle (Easier)",
+      "url": "https://atcoder.jp/contests/adt_medium_20240307_2/tasks/abc262_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc245_b",
+      "label": "D",
+      "title": "Mex",
+      "url": "https://atcoder.jp/contests/adt_medium_20240307_2/tasks/abc245_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc313_c",
+      "label": "E",
+      "title": "Approximate Equalization 2",
+      "url": "https://atcoder.jp/contests/adt_medium_20240307_2/tasks/abc313_c"
+    },
+    {
+      "id": "abc214_c",
+      "label": "F",
+      "title": "Distribution",
+      "url": "https://atcoder.jp/contests/adt_medium_20240307_2/tasks/abc214_c"
+    },
+    {
+      "id": "abc212_d",
+      "label": "G",
+      "title": "Querying Multiset ",
+      "url": "https://atcoder.jp/contests/adt_medium_20240307_2/tasks/abc212_d"
+    }
+  ]
+}
