@@ -1,0 +1,54 @@
+{
+  "contest": {
+    "id": "adt_medium_20240312_3",
+    "title": "AtCoder Daily Training MEDIUM 2024/03/12 19:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240312_3"
+  },
+  "tasks": [
+    {
+      "id": "abc280_b",
+      "label": "C",
+      "title": "Inverse Prefix Sum",
+      "url": "https://atcoder.jp/contests/adt_medium_20240312_3/tasks/abc280_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc315_b",
+      "label": "D",
+      "title": "The Middle Day",
+      "url": "https://atcoder.jp/contests/adt_medium_20240312_3/tasks/abc315_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc277_c",
+      "label": "E",
+      "title": "Ladder Takahashi",
+      "url": "https://atcoder.jp/contests/adt_medium_20240312_3/tasks/abc277_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc218_c",
+      "label": "F",
+      "title": "Shapes",
+      "url": "https://atcoder.jp/contests/adt_medium_20240312_3/tasks/abc218_c"
+    },
+    {
+      "id": "abc263_d",
+      "label": "G",
+      "title": "Left Right Operation",
+      "url": "https://atcoder.jp/contests/adt_medium_20240312_3/tasks/abc263_d"
+    }
+  ]
+}

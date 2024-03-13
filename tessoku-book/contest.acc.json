@@ -476,7 +476,12 @@
       "id": "tessoku_book_bh",
       "label": "A60",
       "title": "Stock Price",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bh"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bh",
+      "directory": {
+        "path": "a60",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_bi",

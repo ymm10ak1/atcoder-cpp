@@ -25,7 +25,7 @@ int main(){
             if(j > 0){
                 if(s[j]==S[i]){
                     if(i == 0) dp[i][j] = (dp[i][j-1]+1)%MOD;
-                    else dp[i][j] = (dp[i-1][j]+dp[i][j-1])%MOD;
+                    else dp[i][j] = (dp[i-1][j-1]+dp[i][j-1])%MOD; // s[j]に下線を引く場合と引かない場合の数を足す
                 }else{
                     dp[i][j] = dp[i][j-1];
                 }
