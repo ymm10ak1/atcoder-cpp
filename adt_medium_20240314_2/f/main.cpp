@@ -12,16 +12,28 @@ using ull = unsigned long long;
 const int INF = 1e9;
 const ll LLINF = 1e18;
 
+
+void dfs(const vector<vector<int>>& g, int v, const int sta){
+    
+}
+
 // 解法が思いつかなかった
-// グラフをmap<int,vector<int>>で表して、setで訪れた頂点を記録しつつBFSで探索する
 int main(){
-    int n; cin >> n;
-    vector<int> a(n), b(n);
-    map<int,bool> amp, bmp;
+    int n, m;
+    cin >> n >> m;
+    vector<vector<int>> g(n);
+    vector<vector<bool>> check(n,vector<bool>(n,false));
+    rep(i,m){
+        int u, v; cin >> u >> v;
+        --u; --v;
+        g[u].push_back(v);
+        g[v].push_back(u);
+        check[u][v] = true;
+        check[v][u] = true;
+    }
+    bool ok = false;
     rep(i,n){
-        cin >> a[i] >> b[i];
-        amp[a[i]] = true;
-        bmp[b[i]] = true;
+        if(g[i].size() != 1) continue;
     }
     return 0;
 }

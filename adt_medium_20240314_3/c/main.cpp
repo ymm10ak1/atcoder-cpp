@@ -12,16 +12,13 @@ using ull = unsigned long long;
 const int INF = 1e9;
 const ll LLINF = 1e18;
 
-// 解法が思いつかなかった
-// グラフをmap<int,vector<int>>で表して、setで訪れた頂点を記録しつつBFSで探索する
 int main(){
-    int n; cin >> n;
-    vector<int> a(n), b(n);
-    map<int,bool> amp, bmp;
-    rep(i,n){
-        cin >> a[i] >> b[i];
-        amp[a[i]] = true;
-        bmp[b[i]] = true;
+    int h, w;
+    cin >> h >> w;
+    vector<vector<int>> a(h,vector<int>(w));
+    rep(i,h)rep(j,w) cin >> a[i][j];
+    rep(i,w){
+        rep(j,h) printf("%d%c", a[j][i], j==h-1?'\n':' ');
     }
     return 0;
 }

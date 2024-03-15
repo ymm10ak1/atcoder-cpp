@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "adt_medium_20240313_3",
+    "title": "AtCoder Daily Training MEDIUM 2024/03/13 20:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240313_3"
+  },
+  "tasks": [
+    {
+      "id": "abc259_b",
+      "label": "C",
+      "title": "Counterclockwise Rotation",
+      "url": "https://atcoder.jp/contests/adt_medium_20240313_3/tasks/abc259_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc238_b",
+      "label": "D",
+      "title": "Pizza",
+      "url": "https://atcoder.jp/contests/adt_medium_20240313_3/tasks/abc238_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc284_c",
+      "label": "E",
+      "title": "Count Connected Components",
+      "url": "https://atcoder.jp/contests/adt_medium_20240313_3/tasks/abc284_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc280_c",
+      "label": "F",
+      "title": "Extra Character",
+      "url": "https://atcoder.jp/contests/adt_medium_20240313_3/tasks/abc280_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc257_d",
+      "label": "G",
+      "title": "Jumping Takahashi 2",
+      "url": "https://atcoder.jp/contests/adt_medium_20240313_3/tasks/abc257_d"
+    }
+  ]
+}

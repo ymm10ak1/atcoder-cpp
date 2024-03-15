@@ -1,4 +1,4 @@
-// 
+// B61 - Influencer
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -12,16 +12,23 @@ using ull = unsigned long long;
 const int INF = 1e9;
 const ll LLINF = 1e18;
 
-// 解法が思いつかなかった
-// グラフをmap<int,vector<int>>で表して、setで訪れた頂点を記録しつつBFSで探索する
 int main(){
-    int n; cin >> n;
-    vector<int> a(n), b(n);
-    map<int,bool> amp, bmp;
-    rep(i,n){
-        cin >> a[i] >> b[i];
-        amp[a[i]] = true;
-        bmp[b[i]] = true;
+    int n, m;
+    cin >> n >> m;
+    vector<vector<int>> g(n);
+    rep(i,m){
+        int a, b; cin >> a >> b;
+        --a; --b;
+        g[a].push_back(b);
+        g[b].push_back(a);
     }
+    int ans = 0, max_num = 0;
+    rep(i,n){
+        if(max_num < g[i].size()){
+            ans = i+1;
+            max_num = g[i].size();
+        }
+    }
+    cout << ans << el;
     return 0;
 }

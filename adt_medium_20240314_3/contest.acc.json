@@ -1,0 +1,54 @@
+{
+  "contest": {
+    "id": "adt_medium_20240314_3",
+    "title": "AtCoder Daily Training MEDIUM 2024/03/14 20:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240314_3"
+  },
+  "tasks": [
+    {
+      "id": "abc237_b",
+      "label": "C",
+      "title": "Matrix Transposition",
+      "url": "https://atcoder.jp/contests/adt_medium_20240314_3/tasks/abc237_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc317_b",
+      "label": "D",
+      "title": "MissingNo.",
+      "url": "https://atcoder.jp/contests/adt_medium_20240314_3/tasks/abc317_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc260_c",
+      "label": "E",
+      "title": "Changing Jewels",
+      "url": "https://atcoder.jp/contests/adt_medium_20240314_3/tasks/abc260_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc269_c",
+      "label": "F",
+      "title": "Submask",
+      "url": "https://atcoder.jp/contests/adt_medium_20240314_3/tasks/abc269_c"
+    },
+    {
+      "id": "abc333_d",
+      "label": "G",
+      "title": "Erase Leaves",
+      "url": "https://atcoder.jp/contests/adt_medium_20240314_3/tasks/abc333_d"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "adt_medium_20240314_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/03/14 18:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240314_2"
+  },
+  "tasks": [
+    {
+      "id": "abc239_b",
+      "label": "C",
+      "title": "Integer Division",
+      "url": "https://atcoder.jp/contests/adt_medium_20240314_2/tasks/abc239_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc225_b",
+      "label": "D",
+      "title": "Star or Not",
+      "url": "https://atcoder.jp/contests/adt_medium_20240314_2/tasks/abc225_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc216_c",
+      "label": "E",
+      "title": "Many Balls",
+      "url": "https://atcoder.jp/contests/adt_medium_20240314_2/tasks/abc216_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc287_c",
+      "label": "F",
+      "title": "Path Graph?",
+      "url": "https://atcoder.jp/contests/adt_medium_20240314_2/tasks/abc287_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc243_d",
+      "label": "G",
+      "title": "Moves on Binary Tree",
+      "url": "https://atcoder.jp/contests/adt_medium_20240314_2/tasks/abc243_d"
+    }
+  ]
+}

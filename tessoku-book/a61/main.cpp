@@ -1,4 +1,4 @@
-// 
+// A61 - Adjacent Vertices
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -12,16 +12,22 @@ using ull = unsigned long long;
 const int INF = 1e9;
 const ll LLINF = 1e18;
 
-// 解法が思いつかなかった
-// グラフをmap<int,vector<int>>で表して、setで訪れた頂点を記録しつつBFSで探索する
 int main(){
-    int n; cin >> n;
-    vector<int> a(n), b(n);
-    map<int,bool> amp, bmp;
-    rep(i,n){
-        cin >> a[i] >> b[i];
-        amp[a[i]] = true;
-        bmp[b[i]] = true;
+    int n, m;
+    cin >> n >> m;
+    vector<vector<int>> g(n+1);
+    rep(i,m){
+        int a,b; cin >> a >> b;
+        g[a].push_back(b);
+        g[b].push_back(a);
+    }
+    repi(i,1,n+1){
+        printf("%d: {", i);
+        rep(j,g[i].size()){
+            if(j<g[i].size()-1) cout << g[i][j] << ", ";
+            else cout << g[i][j];
+        }
+        cout << "}" << el;
     }
     return 0;
 }

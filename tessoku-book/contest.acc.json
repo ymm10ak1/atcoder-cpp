@@ -20,7 +20,12 @@
       "id": "tessoku_book_b",
       "label": "A02",
       "title": "Linear Search",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_b"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_b",
+      "directory": {
+        "path": "a02",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_c",
@@ -487,7 +492,12 @@
       "id": "tessoku_book_bi",
       "label": "A61",
       "title": "Adjacent Vertices",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bi"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bi",
+      "directory": {
+        "path": "a61",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "math_and_algorithm_am",
@@ -1036,7 +1046,12 @@
       "id": "tessoku_book_eh",
       "label": "B61",
       "title": "Influencer",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_eh"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_eh",
+      "directory": {
+        "path": "b61",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ei",
