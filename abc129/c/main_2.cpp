@@ -1,4 +1,4 @@
-// E - Changing jewels
+// C - Typical Stairs
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -12,9 +12,23 @@ using ull = unsigned long long;
 const int INF = 1e9;
 const ll LLINF = 1e18;
 
-// 解法が思いつかなかった 解説見るどDPや再帰関数を用いて解けるみたい
+int dp[100010];
+const int MOD = 1000000007;
+
 int main(){
-    int n, x, y;
-    cin >> n >> x >> y;
+    int n,m;
+    cin >> n >> m;
+    map<int, bool> mp;
+    rep(i,m){
+        int ai; cin >> ai;
+        mp[ai] = true;
+    }
+    dp[0] = 1;
+    repi(i,1,n+1){
+        if(mp[i]) continue;
+        if(i-1 >= 0) dp[i] = (dp[i]+dp[i-1])%MOD;
+        if(i-2 >= 0) dp[i] = (dp[i]+dp[i-2])%MOD;
+    }
+    cout << dp[n] << el;
     return 0;
 }

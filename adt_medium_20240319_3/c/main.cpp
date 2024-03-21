@@ -1,4 +1,4 @@
-// E - Changing jewels
+// 
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -12,9 +12,17 @@ using ull = unsigned long long;
 const int INF = 1e9;
 const ll LLINF = 1e18;
 
-// 解法が思いつかなかった 解説見るどDPや再帰関数を用いて解けるみたい
 int main(){
-    int n, x, y;
-    cin >> n >> x >> y;
+    int n; cin >> n;
+    vector<int> a(n);
+    rep(i,n) cin >> a[i];
+    vector<bool> cnt(n, false);
+    rep(i,n){
+        if(!cnt[i]) cnt[a[i]-1] = true;
+    }
+    vector<int> ans;
+    rep(i,n) if(!cnt[i]) ans.push_back(i+1);
+    cout << ans.size() << el;
+    rep(i,ans.size()) printf("%d%c",ans[i],i==ans.size()-1?'\n':' ');
     return 0;
 }

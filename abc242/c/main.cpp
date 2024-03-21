@@ -1,4 +1,4 @@
-// E - Changing jewels
+// C - 1111gal password
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -12,9 +12,19 @@ using ull = unsigned long long;
 const int INF = 1e9;
 const ll LLINF = 1e18;
 
-// 解法が思いつかなかった 解説見るどDPや再帰関数を用いて解けるみたい
+const int MOD = 998244353;
+
 int main(){
-    int n, x, y;
-    cin >> n >> x >> y;
+    int n; cin >> n;
+    vector<vector<int>> dp(11,vector<int>(n+1,0));
+    repi(i,1,10) dp[i][1] = 1;
+    repi(j,2,n+1){
+        repi(i,1,10){
+            dp[i][j] = (((dp[i-1][j-1]+dp[i][j-1])%MOD)+dp[i+1][j-1])%MOD;
+        }
+    }
+    int ans = 0;
+    rep(i, 11) ans = (ans+dp[i][n])%MOD;
+    cout << ans << el;
     return 0;
 }

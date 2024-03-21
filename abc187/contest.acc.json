@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "abc187",
+    "title": "AtCoder Beginner Contest 187",
+    "url": "https://atcoder.jp/contests/abc187"
+  },
+  "tasks": [
+    {
+      "id": "abc187_a",
+      "label": "A",
+      "title": "Large Digits",
+      "url": "https://atcoder.jp/contests/abc187/tasks/abc187_a"
+    },
+    {
+      "id": "abc187_b",
+      "label": "B",
+      "title": "Gentle Pairs",
+      "url": "https://atcoder.jp/contests/abc187/tasks/abc187_b"
+    },
+    {
+      "id": "abc187_c",
+      "label": "C",
+      "title": "1-SAT",
+      "url": "https://atcoder.jp/contests/abc187/tasks/abc187_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc187_d",
+      "label": "D",
+      "title": "Choose Me",
+      "url": "https://atcoder.jp/contests/abc187/tasks/abc187_d"
+    },
+    {
+      "id": "abc187_e",
+      "label": "E",
+      "title": "Through Path",
+      "url": "https://atcoder.jp/contests/abc187/tasks/abc187_e"
+    },
+    {
+      "id": "abc187_f",
+      "label": "F",
+      "title": "Close Group",
+      "url": "https://atcoder.jp/contests/abc187/tasks/abc187_f"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-// E - Changing jewels
+// E - Cash Register
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -12,9 +12,20 @@ using ull = unsigned long long;
 const int INF = 1e9;
 const ll LLINF = 1e18;
 
-// 解法が思いつかなかった 解説見るどDPや再帰関数を用いて解けるみたい
 int main(){
-    int n, x, y;
-    cin >> n >> x >> y;
+    string s; cin >> s;
+    ll ans = 0;
+    reverse(all(s));
+    ll cnt0 = 0;
+    for(char c : s){
+        if(c == '0'){
+            ++cnt0;
+        }else{
+            ans += (cnt0/2+cnt0%2);
+            cnt0 = 0;
+            ++ans;
+        }
+    }
+    cout << ans << el;
     return 0;
 }

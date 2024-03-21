@@ -1,4 +1,4 @@
-// E - Changing jewels
+// C - Distribution
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -12,9 +12,17 @@ using ull = unsigned long long;
 const int INF = 1e9;
 const ll LLINF = 1e18;
 
-// 解法が思いつかなかった 解説見るどDPや再帰関数を用いて解けるみたい
+ll dp[200010];
+
 int main(){
-    int n, x, y;
-    cin >> n >> x >> y;
+    int n; cin >> n;
+    vector<ll> s(n), t(n);
+    rep(i,n) cin >> s[i];
+    rep(i,n) cin >> t[i];
+    dp[0] = t[0];
+    repi(i,1,2*n){
+        dp[i%n] = min(dp[(i-1)%n]+s[(i-1)%n], t[i%n]);
+    }
+    rep(i,n) cout << dp[i] << el;
     return 0;
 }

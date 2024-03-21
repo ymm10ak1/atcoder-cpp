@@ -503,7 +503,12 @@
       "id": "math_and_algorithm_am",
       "label": "A62",
       "title": "Depth First Search",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_am"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_am",
+      "directory": {
+        "path": "a62",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "math_and_algorithm_an",

@@ -1,4 +1,4 @@
-// E - Changing jewels
+// B - Ancestor
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -12,9 +12,17 @@ using ull = unsigned long long;
 const int INF = 1e9;
 const ll LLINF = 1e18;
 
-// 解法が思いつかなかった 解説見るどDPや再帰関数を用いて解けるみたい
 int main(){
-    int n, x, y;
-    cin >> n >> x >> y;
+    int n; cin >> n;
+    vector<int> p(n);
+    repi(i,1,n){
+        cin >> p[i]; --p[i];
+    }
+    vector<int> dp(n,0);
+    dp[0] = 0;
+    repi(i,1,n){
+        dp[i] = dp[p[i]]+1;
+    }
+    cout << dp[n-1] << el;
     return 0;
 }

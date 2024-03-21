@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "adt_medium_20240319_3",
+    "title": "AtCoder Daily Training MEDIUM 2024/03/19 19:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240319_3"
+  },
+  "tasks": [
+    {
+      "id": "abc293_b",
+      "label": "C",
+      "title": "Call the ID Number",
+      "url": "https://atcoder.jp/contests/adt_medium_20240319_3/tasks/abc293_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc277_b",
+      "label": "D",
+      "title": "Playing Cards Validation",
+      "url": "https://atcoder.jp/contests/adt_medium_20240319_3/tasks/abc277_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc283_c",
+      "label": "E",
+      "title": "Cash Register",
+      "url": "https://atcoder.jp/contests/adt_medium_20240319_3/tasks/abc283_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc243_c",
+      "label": "F",
+      "title": "Collision 2",
+      "url": "https://atcoder.jp/contests/adt_medium_20240319_3/tasks/abc243_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc281_d",
+      "label": "G",
+      "title": "Max Multiple",
+      "url": "https://atcoder.jp/contests/adt_medium_20240319_3/tasks/abc281_d"
+    }
+  ]
+}

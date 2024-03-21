@@ -1,4 +1,4 @@
-// F - Path Graph?
+// C - 1-SAT
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -12,23 +12,26 @@ using ull = unsigned long long;
 const int INF = 1e9;
 const ll LLINF = 1e18;
 
-// 解法が思いつかなかった
 int main(){
-    int n, m;
-    cin >> n >> m;
-    vector<vector<int>> g(n);
-    vector<vector<bool>> check(n,vector<bool>(n,false));
-    rep(i,m){
-        int u, v; cin >> u >> v;
-        --u; --v;
-        g[u].push_back(v);
-        g[v].push_back(u);
-        check[u][v] = true;
-        check[v][u] = true;
-    }
-    bool ok = false;
+    int n; cin >> n;
+    vector<string> s(n);
+    map<string, bool> mp;
     rep(i,n){
-        if(g[i].size() != 1) continue;
+        cin >> s[i];
+        mp[s[i]] = true;
     }
+    rep(i,n){
+        string t = "";
+        if(s[i][0] == '!'){
+            t = s[i].substr(1);
+        }else{
+            t = s[i];
+        }
+        if(mp[t] && mp["!"+t]){
+            cout << t << el;
+            return 0;
+        }
+    }
+    cout << "satisfiable" << el;
     return 0;
 }

@@ -21,6 +21,10 @@ int main(){
     rep(i,n) cin >> b[i];
     vector<vector<int>> dp(n,vector<int>(3010,0));
     repi(i,a[0],b[0]+1) dp[0][i] = 1;
+    // 解説見ると累積和とdpを組み合わせるみたい
+    // まずdp[n][3009]を用意してdp[0][0] = 1で初期化
+    // 前のiに対しての累積和を求める。for(int j=0; j<3010; j++) dp[i][j+1] = (dp[i][j+1]+dp[i][j])%MOD;
+    // そのあとdp更新する(ただしi<nのとき) for(int j=a[i]; j<=b[i]; j++) dp[i+1][j] = (dp[i+1][j]+dp[i][j])%MOD;
     repi(i,1,n){
         rep(j,b[i]+1){
             if(j <= a[i]){
