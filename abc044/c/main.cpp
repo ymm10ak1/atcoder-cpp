@@ -21,7 +21,7 @@ int main(){
         cin >> x[i];
         sum += x[i];
     }
-    // 解説見るとdp[i][j][k]:N個の整数のうちの最初のi個から、j個選ぶ場合について、総和をkにするものが何個あるか
+    // NOTE: 解説見るとdp[i][j][k]:N個の整数のうちの最初のi個から、j個選ぶ場合について、総和をkにするものが何個あるか
     // 平均値がAは個数がj個のとき、総和がAjとなるので、k<=Aj
     vector<vector<vector<ll>>> dp(n+1,vector<vector<ll>>(n+1,vector<ll>(sum+1,0LL)));
     rep(i,n+1) dp[i][0][0] = 1;
