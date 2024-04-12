@@ -1,0 +1,62 @@
+{
+  "contest": {
+    "id": "abc220",
+    "title": "AtCoder Beginner Contest 220",
+    "url": "https://atcoder.jp/contests/abc220"
+  },
+  "tasks": [
+    {
+      "id": "abc220_a",
+      "label": "A",
+      "title": "Find Multiple",
+      "url": "https://atcoder.jp/contests/abc220/tasks/abc220_a"
+    },
+    {
+      "id": "abc220_b",
+      "label": "B",
+      "title": "Base K",
+      "url": "https://atcoder.jp/contests/abc220/tasks/abc220_b"
+    },
+    {
+      "id": "abc220_c",
+      "label": "C",
+      "title": "Long Sequence",
+      "url": "https://atcoder.jp/contests/abc220/tasks/abc220_c"
+    },
+    {
+      "id": "abc220_d",
+      "label": "D",
+      "title": "FG operation",
+      "url": "https://atcoder.jp/contests/abc220/tasks/abc220_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc220_e",
+      "label": "E",
+      "title": "Distance on Large Perfect Binary Tree",
+      "url": "https://atcoder.jp/contests/abc220/tasks/abc220_e"
+    },
+    {
+      "id": "abc220_f",
+      "label": "F",
+      "title": "Distance Sums 2",
+      "url": "https://atcoder.jp/contests/abc220/tasks/abc220_f"
+    },
+    {
+      "id": "abc220_g",
+      "label": "G",
+      "title": "Isosceles Trapezium",
+      "url": "https://atcoder.jp/contests/abc220/tasks/abc220_g"
+    },
+    {
+      "id": "abc220_h",
+      "label": "H",
+      "title": "Security Camera",
+      "url": "https://atcoder.jp/contests/abc220/tasks/abc220_h"
+    }
+  ]
+}

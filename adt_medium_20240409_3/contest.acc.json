@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "adt_medium_20240409_3",
+    "title": "AtCoder Daily Training MEDIUM 2024/04/09 19:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240409_3"
+  },
+  "tasks": [
+    {
+      "id": "abc267_b",
+      "label": "C",
+      "title": "Split?",
+      "url": "https://atcoder.jp/contests/adt_medium_20240409_3/tasks/abc267_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc303_b",
+      "label": "D",
+      "title": "Discord",
+      "url": "https://atcoder.jp/contests/adt_medium_20240409_3/tasks/abc303_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc274_c",
+      "label": "E",
+      "title": "Ameba",
+      "url": "https://atcoder.jp/contests/adt_medium_20240409_3/tasks/abc274_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc271_c",
+      "label": "F",
+      "title": "Manga",
+      "url": "https://atcoder.jp/contests/adt_medium_20240409_3/tasks/abc271_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc332_d",
+      "label": "G",
+      "title": "Swapping Puzzle",
+      "url": "https://atcoder.jp/contests/adt_medium_20240409_3/tasks/abc332_d"
+    }
+  ]
+}
