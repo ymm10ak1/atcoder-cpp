@@ -32,7 +32,12 @@
       "id": "abc149_d",
       "label": "D",
       "title": "Prediction and Restriction",
-      "url": "https://atcoder.jp/contests/abc149/tasks/abc149_d"
+      "url": "https://atcoder.jp/contests/abc149/tasks/abc149_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc149_e",
