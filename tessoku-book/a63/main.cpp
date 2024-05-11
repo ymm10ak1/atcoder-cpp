@@ -1,4 +1,4 @@
-// A62 - Depth First Search
+// Shortest Path 1
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -12,29 +12,29 @@ using ull = unsigned long long;
 const int INF = 1e9;
 const ll LLINF = 1e18;
 
-bool seen[100010];
-
-void dfs(const vector<vector<int>>& g, int v){
-    seen[v] = true;
-    for(int next_v : g[v]){
-        if(seen[next_v]) continue;
-        dfs(g, next_v);
-    }
-}
-
 int main(){
-    int n, m; cin >> n >> m;
+    int n,m;
+    cin >> n >> m;
     vector<vector<int>> g(n);
     rep(i,m){
-        int a, b; cin >> a >> b;
+        int a, b;
+        cin >> a >> b;
         --a; --b;
         g[a].push_back(b);
         g[b].push_back(a);
     }
-    dfs(g, 0);
-    int cnt = 0;
-    rep(i,n) if(seen[i]) ++cnt;
-    if(cnt == n) cout << "The graph is connected." << el;
-    else cout << "The graph is not connected." << el;
+    vector<int> ans(n, -1);
+    queue<int> q;
+    ans[0] = 0;
+    q.push(0);
+    while(!q.empty()){
+        int v = q.front(); q.pop();
+        for(int nxt : g[v]){
+            if(ans[nxt] != -1) continue;
+            ans[nxt] = ans[v]+1;
+            q.push(nxt);
+        }
+    }
+    rep(i,n) cout << ans[i] << el;
     return 0;
 }

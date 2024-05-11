@@ -514,7 +514,12 @@
       "id": "math_and_algorithm_an",
       "label": "A63",
       "title": "Shortest Path 1",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_an"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_an",
+      "directory": {
+        "path": "a63",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_bl",
@@ -1062,19 +1067,34 @@
       "id": "tessoku_book_ei",
       "label": "B62",
       "title": "Print a Path",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ei"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ei",
+      "directory": {
+        "path": "b62",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc007_3",
       "label": "B63",
       "title": "幅優先探索",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/abc007_3"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/abc007_3",
+      "directory": {
+        "path": "b63",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ek",
       "label": "B64",
       "title": "Shortest Path with Restoration",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ek"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ek",
+      "directory": {
+        "path": "b64",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_el",
