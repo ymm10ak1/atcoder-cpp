@@ -31,6 +31,7 @@ int main(){
     // 頂点0を確定済み頂点にする
     cur[0] = 0;
     q.push({cur[0],0});
+    // ダイクストラ法
     while(!q.empty()){
         // 未確定頂点の中でcurの値が最も小さい頂点posを求める
         int pos = q.top().second; q.pop();
@@ -48,30 +49,28 @@ int main(){
             }
         }
     }
-    cout << "========== graph ==========" << el;
-    rep(i,n){
-        cout << "頂点" << i << ": ";
-        rep(j,g[i].size()) printf("%d%c",g[i][j].first,j==g[i].size()-1?'\n':' ');
-    }
-    cout << "========== cur ==========" << el;
-    rep(i,n) printf("%d%c",cur[i],i==n-1?'\n':' ');
-    // 復元
+    // 復元処理
+    set<pair<int,int>> st;
+    rep(i,n) st.insert({cur[i],i});
     vector<int> ans;
     int now = n-1;
     ans.push_back(now+1);
     hukugen[now] = true;
-    while(true){
+    while(now > 0){
         int minCost = INF;
+        // 隣接している頂点を調べる
         for(auto p : g[now]){
             // すでに訪れた頂点はスキップ
             if(hukugen[p.first]) continue;
-            // その頂点から他の頂点につながらない場合はスキップ
-            if(cur[p.first] == INF) continue;
-            // 今の頂点から隣接する頂点の中で一番距離が短いものにする
-            if(minCost > p.second){
-                hukugen[p.first] = true;
-                now = p.first;
-                minCost = p.second;
+            // 頂点nowまでの距離より長い場合スキップ
+            int newCost = cur[now]-p.second;
+            if(newCost < 0) continue;
+            auto it = st.find({newCost, p.first});
+            if(it != st.end()){
+                if(minCost > newCost){
+                    minCost = newCost;
+                    now = p.first;
+                }
             }
         }
         ans.push_back(now+1);

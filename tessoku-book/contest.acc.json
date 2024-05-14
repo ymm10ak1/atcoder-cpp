@@ -537,13 +537,23 @@
       "id": "tessoku_book_bn",
       "label": "A66",
       "title": "Connect Query",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bn"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bn",
+      "directory": {
+        "path": "a66",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_bo",
       "label": "A67",
       "title": "MST (Minimum Spanning Tree)",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bo"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bo",
+      "directory": {
+        "path": "a67",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_bp",
@@ -1100,19 +1110,34 @@
       "id": "tessoku_book_el",
       "label": "B65",
       "title": "Road to Promotion Hard",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_el"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_el",
+      "directory": {
+        "path": "b65",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_em",
       "label": "B66",
       "title": "Typhoon",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_em"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_em",
+      "directory": {
+        "path": "b66",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_en",
       "label": "B67",
       "title": "Max MST",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_en"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_en",
+      "directory": {
+        "path": "b67",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_eo",
