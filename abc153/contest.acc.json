@@ -38,7 +38,12 @@
       "id": "abc153_e",
       "label": "E",
       "title": "Crested Ibis vs Monster",
-      "url": "https://atcoder.jp/contests/abc153/tasks/abc153_e"
+      "url": "https://atcoder.jp/contests/abc153/tasks/abc153_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc153_f",

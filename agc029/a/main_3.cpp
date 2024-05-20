@@ -12,20 +12,20 @@ using ull = unsigned long long;
 const int INF = 1e9;
 const ll LLINF = 1e18;
 
-ll dp[200010];
+int dp[200005];
 
 int main(){
     string s; cin >> s;
-    int b_cnt = (s[0]=='B') ? 1 : 0;
-    dp[0] = 0;
+    dp[0] = s[0]=='B'?1:0;
+    ll ans = 0;
     repi(i,1,s.size()){
         if(s[i] == 'W'){
-            dp[i] = dp[i-1]+b_cnt;
-        }else{
-            ++b_cnt;
             dp[i] = dp[i-1];
+            ans += dp[i];
+        }else{
+            dp[i] = dp[i-1]+1;
         }
     }
-    cout << dp[(int)s.size()-1] << el;
+    cout << ans << el;
     return 0;
 }
