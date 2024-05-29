@@ -26,7 +26,12 @@
       "id": "arc073_a",
       "label": "C",
       "title": "Sentou",
-      "url": "https://atcoder.jp/contests/abc060/tasks/arc073_a"
+      "url": "https://atcoder.jp/contests/abc060/tasks/arc073_a",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "arc073_b",
