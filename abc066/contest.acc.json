@@ -25,7 +25,12 @@
       "id": "arc077_a",
       "label": "C",
       "title": "pushpush",
-      "url": "https://atcoder.jp/contests/abc066/tasks/arc077_a"
+      "url": "https://atcoder.jp/contests/abc066/tasks/arc077_a",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "arc077_b",

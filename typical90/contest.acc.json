@@ -138,7 +138,12 @@
       "id": "typical90_t",
       "label": "020",
       "title": "Log Inequality（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_t"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_t",
+      "directory": {
+        "path": "020",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_u",
@@ -358,7 +363,12 @@
       "id": "typical90_bc",
       "label": "055",
       "title": "Select 5（★2）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bc"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bc",
+      "directory": {
+        "path": "055",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_bd",
@@ -394,7 +404,12 @@
       "id": "typical90_bi",
       "label": "061",
       "title": "Deck（★2）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bi"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bi",
+      "directory": {
+        "path": "061",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_bj",

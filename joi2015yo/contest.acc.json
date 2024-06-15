@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "joi2015yo",
+    "title": "第１４回日本情報オリンピック 予選（過去問）",
+    "url": "https://atcoder.jp/contests/joi2015yo"
+  },
+  "tasks": [
+    {
+      "id": "joi2015yo_a",
+      "label": "A",
+      "title": "水道料金 (Water Rate)",
+      "url": "https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_a"
+    },
+    {
+      "id": "joi2015yo_b",
+      "label": "B",
+      "title": "クリスマスパーティー (Christmas Party)",
+      "url": "https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_b"
+    },
+    {
+      "id": "joi2015yo_c",
+      "label": "C",
+      "title": "気象予報士 (Weather Forecaster)",
+      "url": "https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_c"
+    },
+    {
+      "id": "joi2015yo_d",
+      "label": "D",
+      "title": "シルクロード (Silk Road)",
+      "url": "https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "joi2015yo_e",
+      "label": "E",
+      "title": "砂の城 (Sandcastle)",
+      "url": "https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_e"
+    },
+    {
+      "id": "joi2015yo_f",
+      "label": "F",
+      "title": "財宝 (Treasures)",
+      "url": "https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_f"
+    }
+  ]
+}
