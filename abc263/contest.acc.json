@@ -32,7 +32,12 @@
       "id": "abc263_d",
       "label": "D",
       "title": "Left Right Operation",
-      "url": "https://atcoder.jp/contests/abc263/tasks/abc263_d"
+      "url": "https://atcoder.jp/contests/abc263/tasks/abc263_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc263_e",

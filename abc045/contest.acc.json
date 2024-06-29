@@ -15,7 +15,12 @@
       "id": "abc045_b",
       "label": "B",
       "title": "Card Game for Three (ABC Edit)",
-      "url": "https://atcoder.jp/contests/abc045/tasks/abc045_b"
+      "url": "https://atcoder.jp/contests/abc045/tasks/abc045_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "arc061_a",

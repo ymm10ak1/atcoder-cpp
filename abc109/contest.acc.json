@@ -26,7 +26,12 @@
       "id": "abc109_c",
       "label": "C",
       "title": "Skip",
-      "url": "https://atcoder.jp/contests/abc109/tasks/abc109_c"
+      "url": "https://atcoder.jp/contests/abc109/tasks/abc109_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc109_d",

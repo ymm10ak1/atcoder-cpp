@@ -21,7 +21,12 @@
       "id": "abc131_c",
       "label": "C",
       "title": "Anti-Division",
-      "url": "https://atcoder.jp/contests/abc131/tasks/abc131_c"
+      "url": "https://atcoder.jp/contests/abc131/tasks/abc131_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc131_d",

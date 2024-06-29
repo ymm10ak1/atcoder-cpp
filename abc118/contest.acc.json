@@ -25,7 +25,12 @@
       "id": "abc118_c",
       "label": "C",
       "title": "Monsters Battle Royale",
-      "url": "https://atcoder.jp/contests/abc118/tasks/abc118_c"
+      "url": "https://atcoder.jp/contests/abc118/tasks/abc118_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc118_d",

@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "abc158",
+    "title": "AtCoder Beginner Contest 158",
+    "url": "https://atcoder.jp/contests/abc158"
+  },
+  "tasks": [
+    {
+      "id": "abc158_a",
+      "label": "A",
+      "title": "Station and Bus",
+      "url": "https://atcoder.jp/contests/abc158/tasks/abc158_a"
+    },
+    {
+      "id": "abc158_b",
+      "label": "B",
+      "title": "Count Balls",
+      "url": "https://atcoder.jp/contests/abc158/tasks/abc158_b"
+    },
+    {
+      "id": "abc158_c",
+      "label": "C",
+      "title": "Tax Increase",
+      "url": "https://atcoder.jp/contests/abc158/tasks/abc158_c"
+    },
+    {
+      "id": "abc158_d",
+      "label": "D",
+      "title": "String Formation",
+      "url": "https://atcoder.jp/contests/abc158/tasks/abc158_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc158_e",
+      "label": "E",
+      "title": "Divisible Substring",
+      "url": "https://atcoder.jp/contests/abc158/tasks/abc158_e"
+    },
+    {
+      "id": "abc158_f",
+      "label": "F",
+      "title": "Removing Robots",
+      "url": "https://atcoder.jp/contests/abc158/tasks/abc158_f"
+    }
+  ]
+}
