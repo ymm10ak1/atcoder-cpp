@@ -26,7 +26,12 @@
       "id": "keyence2019_c",
       "label": "C",
       "title": "Exam and Wizard",
-      "url": "https://atcoder.jp/contests/keyence2019/tasks/keyence2019_c"
+      "url": "https://atcoder.jp/contests/keyence2019/tasks/keyence2019_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "keyence2019_d",

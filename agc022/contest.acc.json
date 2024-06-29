@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc022",
+    "title": "AtCoder Grand Contest 022",
+    "url": "https://atcoder.jp/contests/agc022"
+  },
+  "tasks": [
+    {
+      "id": "agc022_a",
+      "label": "A",
+      "title": "Diverse Word",
+      "url": "https://atcoder.jp/contests/agc022/tasks/agc022_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "agc022_b",
+      "label": "B",
+      "title": "GCD Sequence",
+      "url": "https://atcoder.jp/contests/agc022/tasks/agc022_b"
+    },
+    {
+      "id": "agc022_c",
+      "label": "C",
+      "title": "Remainder Game",
+      "url": "https://atcoder.jp/contests/agc022/tasks/agc022_c"
+    },
+    {
+      "id": "agc022_d",
+      "label": "D",
+      "title": "Shopping",
+      "url": "https://atcoder.jp/contests/agc022/tasks/agc022_d"
+    },
+    {
+      "id": "agc022_e",
+      "label": "E",
+      "title": "Median Replace",
+      "url": "https://atcoder.jp/contests/agc022/tasks/agc022_e"
+    },
+    {
+      "id": "agc022_f",
+      "label": "F",
+      "title": "Checkers",
+      "url": "https://atcoder.jp/contests/agc022/tasks/agc022_f"
+    }
+  ]
+}

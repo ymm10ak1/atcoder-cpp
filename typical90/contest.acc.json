@@ -292,7 +292,12 @@
       "id": "typical90_ar",
       "label": "044",
       "title": "Shift and Swapping（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ar"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ar",
+      "directory": {
+        "path": "044",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_as",
@@ -304,7 +309,12 @@
       "id": "typical90_at",
       "label": "046",
       "title": "I Love 46（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_at"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_at",
+      "directory": {
+        "path": "046",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_au",
@@ -316,7 +326,12 @@
       "id": "typical90_av",
       "label": "048",
       "title": "I will not drop out（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_av"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_av",
+      "directory": {
+        "path": "048",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_aw",
@@ -445,7 +460,12 @@
       "id": "typical90_bo",
       "label": "067",
       "title": "Base 8 to 9（★2）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bo"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bo",
+      "directory": {
+        "path": "067",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_bp",

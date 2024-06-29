@@ -26,7 +26,12 @@
       "id": "arc076_a",
       "label": "C",
       "title": "Reconciled?",
-      "url": "https://atcoder.jp/contests/abc065/tasks/arc076_a"
+      "url": "https://atcoder.jp/contests/abc065/tasks/arc076_a",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "arc076_b",

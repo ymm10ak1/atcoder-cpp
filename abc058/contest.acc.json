@@ -25,7 +25,12 @@
       "id": "arc071_a",
       "label": "C",
       "title": "Dubious Document",
-      "url": "https://atcoder.jp/contests/abc058/tasks/arc071_a"
+      "url": "https://atcoder.jp/contests/abc058/tasks/arc071_a",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "arc071_b",
