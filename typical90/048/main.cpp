@@ -18,23 +18,33 @@ int main(){
     cin >> n >> k;
     vector<int> a(n), b(n);
     rep(i,n) cin >> a[i] >> b[i];
-    vector<pair<int,int>> vpa, vpb;
-    rep(i,n) vpa.push_back({a[i], i});
-    rep(i,n) vpa.push_back({b[i], i});
-    sort(rall(a));
-    sort(rall(b));
-    vector<bool> used(n,false);
-    int ai = 0, bi = 0;
+    priority_queue<pair<int, int>> q;
+    rep(i,n) q.push({a[i], i});
     ll ans = 0;
+    // TODO: AとBのどちらが得点が高いのか選ぶ方法をどう実装するか
+    // 下記は正しい解法ではない
     while(k > 0){
-        if(k >= 2){
-            int ai1 = vpa[ai].second;
-            int bi1 = vpb[bi].second, bi2 = vpb[bi+1].second;
-            // そのa[i]がすでに使用されているか
-            if(vpa[ai].first >= vpb[bi].first+vpb[bi+1].first){
+        pair<int, int> now = q.top(); q.pop();
+        int bi = now.second;
+        ans += b[bi];
+        k--;
+        // 今の問題の得点a-bを用意
+        int d = now.first-b[bi];
+        if(k>=2 && q.size()>0){
+            pair<int, int> nxt = q.top();
+            // 今見ている問題の得点a-bが次の問題の得点aより高いなら今の問題を解く
+            if(d >= nxt.first){
+                ans += d;
+            }else{
+                ans += nxt.first;
+                q.pop();
             }
-        }else{
+            k--;
+        }else if(k>=2 && q.size()==0){
+            ans += d;
+            k--;
         }
     }
+    cout << ans << el;
     return 0;
 }

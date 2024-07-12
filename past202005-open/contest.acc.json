@@ -61,7 +61,12 @@
       "id": "past202005_h",
       "label": "H",
       "title": "Hurdling",
-      "url": "https://atcoder.jp/contests/past202005-open/tasks/past202005_h"
+      "url": "https://atcoder.jp/contests/past202005-open/tasks/past202005_h",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "past202005_i",

@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": "gwcontest2015",
+    "title": "Golden Week Contest 2015",
+    "url": "https://atcoder.jp/contests/gwcontest2015"
+  },
+  "tasks": [
+    {
+      "id": "gw2015_a",
+      "label": "A",
+      "title": "得点",
+      "url": "https://atcoder.jp/contests/gwcontest2015/tasks/gw2015_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "gw2015_b",
+      "label": "B",
+      "title": "アリ巣",
+      "url": "https://atcoder.jp/contests/gwcontest2015/tasks/gw2015_b"
+    },
+    {
+      "id": "gw2015_c",
+      "label": "C",
+      "title": "Snukeと対戦！",
+      "url": "https://atcoder.jp/contests/gwcontest2015/tasks/gw2015_c"
+    },
+    {
+      "id": "gw2015_d",
+      "label": "D",
+      "title": "最短絡問題",
+      "url": "https://atcoder.jp/contests/gwcontest2015/tasks/gw2015_d"
+    },
+    {
+      "id": "gw2015_e",
+      "label": "E",
+      "title": "シフト塗り分け",
+      "url": "https://atcoder.jp/contests/gwcontest2015/tasks/gw2015_e"
+    },
+    {
+      "id": "gw2015_f",
+      "label": "F",
+      "title": "ピラミッド - 誕生日編",
+      "url": "https://atcoder.jp/contests/gwcontest2015/tasks/gw2015_f"
+    },
+    {
+      "id": "gw2015_g",
+      "label": "G",
+      "title": "ピラミッド - 球編",
+      "url": "https://atcoder.jp/contests/gwcontest2015/tasks/gw2015_g"
+    },
+    {
+      "id": "gw2015_h",
+      "label": "H",
+      "title": "ピラミッド - デコ編",
+      "url": "https://atcoder.jp/contests/gwcontest2015/tasks/gw2015_h"
+    },
+    {
+      "id": "gw2015_i",
+      "label": "I",
+      "title": "ピラミッド - 立方体編",
+      "url": "https://atcoder.jp/contests/gwcontest2015/tasks/gw2015_i"
+    },
+    {
+      "id": "gw2015_j",
+      "label": "J",
+      "title": "ピラミッド - 2D編",
+      "url": "https://atcoder.jp/contests/gwcontest2015/tasks/gw2015_j"
+    }
+  ]
+}
