@@ -70,7 +70,12 @@
       "id": "dp_g",
       "label": "G",
       "title": "Longest Path",
-      "url": "https://atcoder.jp/contests/dp/tasks/dp_g"
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "dp_h",
