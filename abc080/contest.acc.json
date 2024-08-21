@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "abc080",
+    "title": "AtCoder Beginner Contest 080",
+    "url": "https://atcoder.jp/contests/abc080"
+  },
+  "tasks": [
+    {
+      "id": "abc080_a",
+      "label": "A",
+      "title": "Parking",
+      "url": "https://atcoder.jp/contests/abc080/tasks/abc080_a"
+    },
+    {
+      "id": "abc080_b",
+      "label": "B",
+      "title": "Harshad Number",
+      "url": "https://atcoder.jp/contests/abc080/tasks/abc080_b"
+    },
+    {
+      "id": "abc080_c",
+      "label": "C",
+      "title": "Shopping Street",
+      "url": "https://atcoder.jp/contests/abc080/tasks/abc080_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc080_d",
+      "label": "D",
+      "title": "Recording",
+      "url": "https://atcoder.jp/contests/abc080/tasks/abc080_d"
+    }
+  ]
+}

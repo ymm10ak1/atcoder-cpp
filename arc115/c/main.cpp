@@ -1,4 +1,4 @@
-// 048 - I will not drop out（★3）
+// N Coloring
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -12,20 +12,13 @@ using ull = unsigned long long;
 const int INF = 1e9;
 const ll LLINF = 1e18;
 
-// NOTE: B, A-Bにして1分単位で考えるというのを見たので自力では解けていない
 int main(){
-    int n, k;
-    cin >> n >> k;
-    vector<int> a(n), b(n);
-    rep(i,n) cin >> a[i] >> b[i];
-    vector<int> c;
-    rep(i,n){
-        c.push_back(b[i]);
-        c.push_back(a[i]-b[i]);
+    int n; cin >> n;
+    vector<int> ans(n+1, 2);
+    ans[1] = 1;
+    repi(i,2,n+1){
+        for(int j=i*2; j<=n; j+=i) ans[j] = max(ans[j], ans[i]+1);
     }
-    sort(rall(c));
-    ll ans = 0;
-    rep(i,k) ans += c[i];
-    cout << ans << el;
+    repi(i,1,n+1) printf("%d%c", ans[i], i==n?'\n':' ');
     return 0;
 }

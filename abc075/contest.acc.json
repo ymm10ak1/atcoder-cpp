@@ -25,7 +25,12 @@
       "id": "abc075_c",
       "label": "C",
       "title": "Bridge",
-      "url": "https://atcoder.jp/contests/abc075/tasks/abc075_c"
+      "url": "https://atcoder.jp/contests/abc075/tasks/abc075_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc075_d",

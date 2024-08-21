@@ -56,7 +56,12 @@
       "id": "typical90_h",
       "label": "008",
       "title": "AtCounter（★4）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_h"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_h",
+      "directory": {
+        "path": "008",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_i",
@@ -85,7 +90,12 @@
       "id": "typical90_l",
       "label": "012",
       "title": "Red Painting（★4）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_l"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_l",
+      "directory": {
+        "path": "012",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_m",
@@ -575,7 +585,12 @@
       "id": "typical90_cd",
       "label": "082",
       "title": "Counting Numbers（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_cd"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_cd",
+      "directory": {
+        "path": "082",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_ce",
@@ -587,7 +602,12 @@
       "id": "typical90_cf",
       "label": "084",
       "title": "There are two types of characters（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_cf"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_cf",
+      "directory": {
+        "path": "084",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_cg",

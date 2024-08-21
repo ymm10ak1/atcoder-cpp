@@ -1,4 +1,4 @@
-// 048 - I will not drop out（★3）
+// D - Powerful Discount Tickets
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -12,20 +12,22 @@ using ull = unsigned long long;
 const int INF = 1e9;
 const ll LLINF = 1e18;
 
-// NOTE: B, A-Bにして1分単位で考えるというのを見たので自力では解けていない
 int main(){
-    int n, k;
-    cin >> n >> k;
-    vector<int> a(n), b(n);
-    rep(i,n) cin >> a[i] >> b[i];
-    vector<int> c;
-    rep(i,n){
-        c.push_back(b[i]);
-        c.push_back(a[i]-b[i]);
+    int n, m;
+    cin >> n >> m;
+    vector<int> a(n);
+    rep(i,n) cin >> a[i];
+    priority_queue<int> q;
+    rep(i,n) q.push(a[i]);
+    rep(i,m){
+        int now = q.top(); q.pop();
+        q.push(now/2);
     }
-    sort(rall(c));
-    ll ans = 0;
-    rep(i,k) ans += c[i];
-    cout << ans << el;
+    ll sum = 0;
+    while(!q.empty()){
+        int now = q.top(); q.pop();
+        sum += now;
+    }
+    cout << sum << el;
     return 0;
 }
