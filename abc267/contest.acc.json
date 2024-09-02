@@ -21,7 +21,12 @@
       "id": "abc267_c",
       "label": "C",
       "title": "Index × A(Continuous ver.)",
-      "url": "https://atcoder.jp/contests/abc267/tasks/abc267_c"
+      "url": "https://atcoder.jp/contests/abc267/tasks/abc267_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc267_d",
