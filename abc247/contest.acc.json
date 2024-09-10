@@ -9,7 +9,12 @@
       "id": "abc247_a",
       "label": "A",
       "title": "Move Right",
-      "url": "https://atcoder.jp/contests/abc247/tasks/abc247_a"
+      "url": "https://atcoder.jp/contests/abc247/tasks/abc247_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc247_b",
@@ -32,7 +37,12 @@
       "id": "abc247_d",
       "label": "D",
       "title": "Cylinder",
-      "url": "https://atcoder.jp/contests/abc247/tasks/abc247_d"
+      "url": "https://atcoder.jp/contests/abc247/tasks/abc247_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc247_e",

@@ -13,7 +13,7 @@ using ll = long long;
 const int INF = 1e9;
 const ll LINF = 1e18;
 
-// NOTE: 難しくて解けないので一旦放置
+// TODO: 難しくて解けないので一旦放置
 int main(){
     // int t;
     // cin >> t;

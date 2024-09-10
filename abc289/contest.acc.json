@@ -9,7 +9,12 @@
       "id": "abc289_a",
       "label": "A",
       "title": "flip",
-      "url": "https://atcoder.jp/contests/abc289/tasks/abc289_a"
+      "url": "https://atcoder.jp/contests/abc289/tasks/abc289_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc289_b",
@@ -21,7 +26,12 @@
       "id": "abc289_c",
       "label": "C",
       "title": "Coverage",
-      "url": "https://atcoder.jp/contests/abc289/tasks/abc289_c"
+      "url": "https://atcoder.jp/contests/abc289/tasks/abc289_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc289_d",
