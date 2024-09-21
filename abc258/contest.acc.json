@@ -26,7 +26,12 @@
       "id": "abc258_c",
       "label": "C",
       "title": "Rotation",
-      "url": "https://atcoder.jp/contests/abc258/tasks/abc258_c"
+      "url": "https://atcoder.jp/contests/abc258/tasks/abc258_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc258_d",

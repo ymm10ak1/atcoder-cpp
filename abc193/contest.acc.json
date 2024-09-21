@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "abc193",
+    "title": "Caddi Programming Contest 2021(AtCoder Beginner Contest 193)",
+    "url": "https://atcoder.jp/contests/abc193"
+  },
+  "tasks": [
+    {
+      "id": "abc193_a",
+      "label": "A",
+      "title": "Discount",
+      "url": "https://atcoder.jp/contests/abc193/tasks/abc193_a"
+    },
+    {
+      "id": "abc193_b",
+      "label": "B",
+      "title": "Play Snuke",
+      "url": "https://atcoder.jp/contests/abc193/tasks/abc193_b"
+    },
+    {
+      "id": "abc193_c",
+      "label": "C",
+      "title": "Unexpressed",
+      "url": "https://atcoder.jp/contests/abc193/tasks/abc193_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc193_d",
+      "label": "D",
+      "title": "Poker",
+      "url": "https://atcoder.jp/contests/abc193/tasks/abc193_d"
+    },
+    {
+      "id": "abc193_e",
+      "label": "E",
+      "title": "Oversleeping",
+      "url": "https://atcoder.jp/contests/abc193/tasks/abc193_e"
+    },
+    {
+      "id": "abc193_f",
+      "label": "F",
+      "title": "Zebraness",
+      "url": "https://atcoder.jp/contests/abc193/tasks/abc193_f"
+    }
+  ]
+}

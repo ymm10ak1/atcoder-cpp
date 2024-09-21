@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "adt_medium_20240917_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/09/17 17:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240917_2"
+  },
+  "tasks": [
+    {
+      "id": "abc322_b",
+      "label": "C",
+      "title": "Prefix and Suffix",
+      "url": "https://atcoder.jp/contests/adt_medium_20240917_2/tasks/abc322_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc295_b",
+      "label": "D",
+      "title": "Bombs",
+      "url": "https://atcoder.jp/contests/adt_medium_20240917_2/tasks/abc295_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc301_c",
+      "label": "E",
+      "title": "AtCoder Cards",
+      "url": "https://atcoder.jp/contests/adt_medium_20240917_2/tasks/abc301_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc314_c",
+      "label": "F",
+      "title": "Rotate Colored Subsequence",
+      "url": "https://atcoder.jp/contests/adt_medium_20240917_2/tasks/abc314_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc228_d",
+      "label": "G",
+      "title": "Linear Probing",
+      "url": "https://atcoder.jp/contests/adt_medium_20240917_2/tasks/abc228_d"
+    }
+  ]
+}

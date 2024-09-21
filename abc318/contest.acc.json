@@ -9,7 +9,12 @@
       "id": "abc318_a",
       "label": "A",
       "title": "Full Moon",
-      "url": "https://atcoder.jp/contests/abc318/tasks/abc318_a"
+      "url": "https://atcoder.jp/contests/abc318/tasks/abc318_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc318_b",
@@ -21,7 +26,12 @@
       "id": "abc318_c",
       "label": "C",
       "title": "Blue Spring",
-      "url": "https://atcoder.jp/contests/abc318/tasks/abc318_c"
+      "url": "https://atcoder.jp/contests/abc318/tasks/abc318_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc318_d",
