@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "adt_medium_20240924_3",
+    "title": "AtCoder Daily Training MEDIUM 2024/09/24 19:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240924_3"
+  },
+  "tasks": [
+    {
+      "id": "abc264_b",
+      "label": "C",
+      "title": "Nice Grid",
+      "url": "https://atcoder.jp/contests/adt_medium_20240924_3/tasks/abc264_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc328_b",
+      "label": "D",
+      "title": "11/11",
+      "url": "https://atcoder.jp/contests/adt_medium_20240924_3/tasks/abc328_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc257_c",
+      "label": "E",
+      "title": "Robot Takahashi ",
+      "url": "https://atcoder.jp/contests/adt_medium_20240924_3/tasks/abc257_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc295_c",
+      "label": "F",
+      "title": "Socks",
+      "url": "https://atcoder.jp/contests/adt_medium_20240924_3/tasks/abc295_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "codequeen2024_final_d",
+      "label": "G",
+      "title": "Attend Many Events",
+      "url": "https://atcoder.jp/contests/adt_medium_20240924_3/tasks/codequeen2024_final_d"
+    }
+  ]
+}

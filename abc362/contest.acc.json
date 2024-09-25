@@ -32,7 +32,12 @@
       "id": "abc362_d",
       "label": "D",
       "title": "Shortest Path 3",
-      "url": "https://atcoder.jp/contests/abc362/tasks/abc362_d"
+      "url": "https://atcoder.jp/contests/abc362/tasks/abc362_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc362_e",
