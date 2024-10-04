@@ -32,7 +32,12 @@
       "id": "abc276_d",
       "label": "D",
       "title": "Divide by 2 or 3",
-      "url": "https://atcoder.jp/contests/abc276/tasks/abc276_d"
+      "url": "https://atcoder.jp/contests/abc276/tasks/abc276_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc276_e",

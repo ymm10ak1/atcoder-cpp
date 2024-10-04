@@ -32,7 +32,12 @@
       "id": "abc187_d",
       "label": "D",
       "title": "Choose Me",
-      "url": "https://atcoder.jp/contests/abc187/tasks/abc187_d"
+      "url": "https://atcoder.jp/contests/abc187/tasks/abc187_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc187_e",

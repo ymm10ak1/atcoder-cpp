@@ -32,7 +32,12 @@
       "id": "abc330_d",
       "label": "D",
       "title": "Counting Ls",
-      "url": "https://atcoder.jp/contests/abc330/tasks/abc330_d"
+      "url": "https://atcoder.jp/contests/abc330/tasks/abc330_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc330_e",

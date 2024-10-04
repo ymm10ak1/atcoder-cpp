@@ -32,7 +32,12 @@
       "id": "abc213_d",
       "label": "D",
       "title": "Takahashi Tour",
-      "url": "https://atcoder.jp/contests/abc213/tasks/abc213_d"
+      "url": "https://atcoder.jp/contests/abc213/tasks/abc213_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc213_e",
