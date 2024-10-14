@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "abc198",
+    "title": "AtCoder Beginner Contest 198",
+    "url": "https://atcoder.jp/contests/abc198"
+  },
+  "tasks": [
+    {
+      "id": "abc198_a",
+      "label": "A",
+      "title": "Div",
+      "url": "https://atcoder.jp/contests/abc198/tasks/abc198_a"
+    },
+    {
+      "id": "abc198_b",
+      "label": "B",
+      "title": "Palindrome with leading zeros",
+      "url": "https://atcoder.jp/contests/abc198/tasks/abc198_b"
+    },
+    {
+      "id": "abc198_c",
+      "label": "C",
+      "title": "Compass Walking",
+      "url": "https://atcoder.jp/contests/abc198/tasks/abc198_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc198_d",
+      "label": "D",
+      "title": "Send More Money",
+      "url": "https://atcoder.jp/contests/abc198/tasks/abc198_d"
+    },
+    {
+      "id": "abc198_e",
+      "label": "E",
+      "title": "Unique Color",
+      "url": "https://atcoder.jp/contests/abc198/tasks/abc198_e"
+    },
+    {
+      "id": "abc198_f",
+      "label": "F",
+      "title": "Cube",
+      "url": "https://atcoder.jp/contests/abc198/tasks/abc198_f"
+    }
+  ]
+}

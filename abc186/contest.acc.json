@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "abc186",
+    "title": "Panasonic Programming Contest (AtCoder Beginner Contest 186)",
+    "url": "https://atcoder.jp/contests/abc186"
+  },
+  "tasks": [
+    {
+      "id": "abc186_a",
+      "label": "A",
+      "title": "Brick",
+      "url": "https://atcoder.jp/contests/abc186/tasks/abc186_a"
+    },
+    {
+      "id": "abc186_b",
+      "label": "B",
+      "title": "Blocks on Grid",
+      "url": "https://atcoder.jp/contests/abc186/tasks/abc186_b"
+    },
+    {
+      "id": "abc186_c",
+      "label": "C",
+      "title": "Unlucky 7",
+      "url": "https://atcoder.jp/contests/abc186/tasks/abc186_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc186_d",
+      "label": "D",
+      "title": "Sum of difference",
+      "url": "https://atcoder.jp/contests/abc186/tasks/abc186_d"
+    },
+    {
+      "id": "abc186_e",
+      "label": "E",
+      "title": "Throne",
+      "url": "https://atcoder.jp/contests/abc186/tasks/abc186_e"
+    },
+    {
+      "id": "abc186_f",
+      "label": "F",
+      "title": "Rook on Grid",
+      "url": "https://atcoder.jp/contests/abc186/tasks/abc186_f"
+    }
+  ]
+}

@@ -9,7 +9,12 @@
       "id": "cf17_final_a",
       "label": "A",
       "title": "AKIBA",
-      "url": "https://atcoder.jp/contests/cf17-final/tasks/cf17_final_a"
+      "url": "https://atcoder.jp/contests/cf17-final/tasks/cf17_final_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "cf17_final_b",

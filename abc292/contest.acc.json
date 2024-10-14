@@ -32,7 +32,12 @@
       "id": "abc292_d",
       "label": "D",
       "title": "Unicyclic Components",
-      "url": "https://atcoder.jp/contests/abc292/tasks/abc292_d"
+      "url": "https://atcoder.jp/contests/abc292/tasks/abc292_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc292_e",
