@@ -21,7 +21,12 @@
       "id": "abc281_c",
       "label": "C",
       "title": "Circular Playlist",
-      "url": "https://atcoder.jp/contests/abc281/tasks/abc281_c"
+      "url": "https://atcoder.jp/contests/abc281/tasks/abc281_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc281_d",

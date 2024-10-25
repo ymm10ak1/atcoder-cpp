@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "adt_medium_20241015_1",
+    "title": "AtCoder Daily Training MEDIUM 2024/10/15 15:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20241015_1"
+  },
+  "tasks": [
+    {
+      "id": "abc223_b",
+      "label": "C",
+      "title": "String Shifting",
+      "url": "https://atcoder.jp/contests/adt_medium_20241015_1/tasks/abc223_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc336_b",
+      "label": "D",
+      "title": "CTZ",
+      "url": "https://atcoder.jp/contests/adt_medium_20241015_1/tasks/abc336_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc303_c",
+      "label": "E",
+      "title": "Dash",
+      "url": "https://atcoder.jp/contests/adt_medium_20241015_1/tasks/abc303_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc313_c",
+      "label": "F",
+      "title": "Approximate Equalization 2",
+      "url": "https://atcoder.jp/contests/adt_medium_20241015_1/tasks/abc313_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc280_d",
+      "label": "G",
+      "title": "Factorial and Multiple",
+      "url": "https://atcoder.jp/contests/adt_medium_20241015_1/tasks/abc280_d"
+    }
+  ]
+}

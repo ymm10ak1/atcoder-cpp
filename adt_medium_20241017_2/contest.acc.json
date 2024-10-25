@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "adt_medium_20241017_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/10/17 18:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20241017_2"
+  },
+  "tasks": [
+    {
+      "id": "abc279_b",
+      "label": "C",
+      "title": "LOOKUP",
+      "url": "https://atcoder.jp/contests/adt_medium_20241017_2/tasks/abc279_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc323_b",
+      "label": "D",
+      "title": "Round-Robin Tournament",
+      "url": "https://atcoder.jp/contests/adt_medium_20241017_2/tasks/abc323_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc235_c",
+      "label": "E",
+      "title": "The Kth Time Query",
+      "url": "https://atcoder.jp/contests/adt_medium_20241017_2/tasks/abc235_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc312_c",
+      "label": "F",
+      "title": "Invisible Hand",
+      "url": "https://atcoder.jp/contests/adt_medium_20241017_2/tasks/abc312_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc314_d",
+      "label": "G",
+      "title": "LOWER",
+      "url": "https://atcoder.jp/contests/adt_medium_20241017_2/tasks/abc314_d"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "adt_medium_20241023_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/10/23 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20241023_2"
+  },
+  "tasks": [
+    {
+      "id": "abc257_b",
+      "label": "C",
+      "title": "1D Pawn",
+      "url": "https://atcoder.jp/contests/adt_medium_20241023_2/tasks/abc257_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc371_b",
+      "label": "D",
+      "title": "Taro",
+      "url": "https://atcoder.jp/contests/adt_medium_20241023_2/tasks/abc371_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc349_c",
+      "label": "E",
+      "title": "Airport Code",
+      "url": "https://atcoder.jp/contests/adt_medium_20241023_2/tasks/abc349_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc265_c",
+      "label": "F",
+      "title": "Belt Conveyor",
+      "url": "https://atcoder.jp/contests/adt_medium_20241023_2/tasks/abc265_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc325_d",
+      "label": "G",
+      "title": "Printing Machine",
+      "url": "https://atcoder.jp/contests/adt_medium_20241023_2/tasks/abc325_d"
+    }
+  ]
+}

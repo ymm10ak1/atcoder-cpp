@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "adt_medium_20241016_1",
+    "title": "AtCoder Daily Training MEDIUM 2024/10/16 16:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20241016_1"
+  },
+  "tasks": [
+    {
+      "id": "abc276_b",
+      "label": "C",
+      "title": "Adjacency List",
+      "url": "https://atcoder.jp/contests/adt_medium_20241016_1/tasks/abc276_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc303_b",
+      "label": "D",
+      "title": "Discord",
+      "url": "https://atcoder.jp/contests/adt_medium_20241016_1/tasks/abc303_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc348_c",
+      "label": "E",
+      "title": "Colorful Beans",
+      "url": "https://atcoder.jp/contests/adt_medium_20241016_1/tasks/abc348_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc242_c",
+      "label": "F",
+      "title": "1111gal password",
+      "url": "https://atcoder.jp/contests/adt_medium_20241016_1/tasks/abc242_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc226_d",
+      "label": "G",
+      "title": "Teleportation",
+      "url": "https://atcoder.jp/contests/adt_medium_20241016_1/tasks/abc226_d"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "adt_medium_20241017_1",
+    "title": "AtCoder Daily Training MEDIUM 2024/10/17 16:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20241017_1"
+  },
+  "tasks": [
+    {
+      "id": "abc359_b",
+      "label": "C",
+      "title": "Couples",
+      "url": "https://atcoder.jp/contests/adt_medium_20241017_1/tasks/abc359_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc302_b",
+      "label": "D",
+      "title": "Find snuke",
+      "url": "https://atcoder.jp/contests/adt_medium_20241017_1/tasks/abc302_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc278_c",
+      "label": "E",
+      "title": "FF",
+      "url": "https://atcoder.jp/contests/adt_medium_20241017_1/tasks/abc278_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc297_c",
+      "label": "F",
+      "title": "PC on the Table",
+      "url": "https://atcoder.jp/contests/adt_medium_20241017_1/tasks/abc297_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc317_d",
+      "label": "G",
+      "title": "President",
+      "url": "https://atcoder.jp/contests/adt_medium_20241017_1/tasks/abc317_d"
+    }
+  ]
+}

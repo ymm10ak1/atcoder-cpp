@@ -1,0 +1,54 @@
+{
+  "contest": {
+    "id": "adt_medium_20241015_3",
+    "title": "AtCoder Daily Training MEDIUM 2024/10/15 19:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20241015_3"
+  },
+  "tasks": [
+    {
+      "id": "abc343_b",
+      "label": "C",
+      "title": "Adjacency Matrix",
+      "url": "https://atcoder.jp/contests/adt_medium_20241015_3/tasks/abc343_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc277_b",
+      "label": "D",
+      "title": "Playing Cards Validation",
+      "url": "https://atcoder.jp/contests/adt_medium_20241015_3/tasks/abc277_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc226_c",
+      "label": "E",
+      "title": "Martial artist",
+      "url": "https://atcoder.jp/contests/adt_medium_20241015_3/tasks/abc226_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc268_c",
+      "label": "F",
+      "title": "Chinese Restaurant",
+      "url": "https://atcoder.jp/contests/adt_medium_20241015_3/tasks/abc268_c"
+    },
+    {
+      "id": "abc259_d",
+      "label": "G",
+      "title": "Circumferences",
+      "url": "https://atcoder.jp/contests/adt_medium_20241015_3/tasks/abc259_d"
+    }
+  ]
+}

@@ -9,7 +9,12 @@
       "id": "abc271_a",
       "label": "A",
       "title": "484558",
-      "url": "https://atcoder.jp/contests/abc271/tasks/abc271_a"
+      "url": "https://atcoder.jp/contests/abc271/tasks/abc271_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc271_b",
@@ -21,7 +26,12 @@
       "id": "abc271_c",
       "label": "C",
       "title": "Manga",
-      "url": "https://atcoder.jp/contests/abc271/tasks/abc271_c"
+      "url": "https://atcoder.jp/contests/abc271/tasks/abc271_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc271_d",

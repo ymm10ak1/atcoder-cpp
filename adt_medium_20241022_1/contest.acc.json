@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20241022_1",
+    "title": "AtCoder Daily Training MEDIUM 2024/10/22 15:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20241022_1"
+  },
+  "tasks": [
+    {
+      "id": "abc258_b",
+      "label": "C",
+      "title": "Number Box",
+      "url": "https://atcoder.jp/contests/adt_medium_20241022_1/tasks/abc258_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc312_b",
+      "label": "D",
+      "title": "TaK Code",
+      "url": "https://atcoder.jp/contests/adt_medium_20241022_1/tasks/abc312_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc239_c",
+      "label": "E",
+      "title": "Knight Fork",
+      "url": "https://atcoder.jp/contests/adt_medium_20241022_1/tasks/abc239_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc341_c",
+      "label": "F",
+      "title": "Takahashi Gets Lost",
+      "url": "https://atcoder.jp/contests/adt_medium_20241022_1/tasks/abc341_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc360_d",
+      "label": "G",
+      "title": "Ghost Ants",
+      "url": "https://atcoder.jp/contests/adt_medium_20241022_1/tasks/abc360_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

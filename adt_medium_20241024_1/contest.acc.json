@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20241024_1",
+    "title": "AtCoder Daily Training MEDIUM 2024/10/24 16:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20241024_1"
+  },
+  "tasks": [
+    {
+      "id": "abc324_b",
+      "label": "C",
+      "title": "3-smooth Numbers",
+      "url": "https://atcoder.jp/contests/adt_medium_20241024_1/tasks/abc324_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc326_b",
+      "label": "D",
+      "title": "326-like Numbers",
+      "url": "https://atcoder.jp/contests/adt_medium_20241024_1/tasks/abc326_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc371_c",
+      "label": "E",
+      "title": "Make Isomorphic",
+      "url": "https://atcoder.jp/contests/adt_medium_20241024_1/tasks/abc371_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc216_c",
+      "label": "F",
+      "title": "Many Balls",
+      "url": "https://atcoder.jp/contests/adt_medium_20241024_1/tasks/abc216_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc220_d",
+      "label": "G",
+      "title": "FG operation",
+      "url": "https://atcoder.jp/contests/adt_medium_20241024_1/tasks/abc220_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}
