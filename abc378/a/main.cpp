@@ -1,0 +1,25 @@
+// A
+#include <bits/stdc++.h>
+using namespace std;
+using ll = long long;
+using ull = unsigned long long;
+#define repi(i, s, n) for(int i = (int)(s); i < (int)(n); ++i)
+#define rep(i, n) repi(i, 0, n)
+#define rrepi(i, n, s) for(int i = (int)(n)-1; i >= (int)(s); --i)
+#define all(x) x.begin(), x.end()
+#define rall(x) x.rbegin(), x.rend()
+#define el '\n'
+const int INF = 1e9;
+const ll LLINF = 1e18;
+
+int main(){
+    map<int,int> mp;
+    rep(i,4){
+        int a; cin >> a;
+        mp[a]++;
+    }
+    int ans = 0;
+    for(auto [k,v] : mp) ans += v/2;
+    cout << ans << el;
+    return 0;
+}
