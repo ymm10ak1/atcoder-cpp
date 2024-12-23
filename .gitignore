@@ -1,7 +1,6 @@
 *
 !*/
 !*.*
-*.sh
 *.out
 *.in
 .vscode/
