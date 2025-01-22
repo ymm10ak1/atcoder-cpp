@@ -6,5 +6,10 @@ if [ $# -ne 1 ]; then
   echo "実行するには1個の引数が必要です。" 1>&2
 else
   # 指定のディレクトリに第一引数で指定したabcXXXのディレクトリを作成
-  cd "$HOME"/workspace/atcoder/atcoder_cpp && acc n "$1" --template cpp && cd "$1"/ || exit
+  TARGET="$HOME/ghq/github.com/ymm10ak1/atcoder_cpp"
+  if [ -d "$TARGET" ]; then
+    cd "$TARGET" && acc n "$1" --template cpp && cd "$1"/ || exit
+  else
+    cd "$HOME"/workspace/atcoder/atcoder_cpp && acc n "$1" --template cpp && cd "$1"/ || exit
+  fi
 fi
