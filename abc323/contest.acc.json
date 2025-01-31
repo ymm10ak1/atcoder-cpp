@@ -9,13 +9,23 @@
       "id": "abc323_a",
       "label": "A",
       "title": "Weak Beats",
-      "url": "https://atcoder.jp/contests/abc323/tasks/abc323_a"
+      "url": "https://atcoder.jp/contests/abc323/tasks/abc323_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc323_b",
       "label": "B",
       "title": "Round-Robin Tournament",
-      "url": "https://atcoder.jp/contests/abc323/tasks/abc323_b"
+      "url": "https://atcoder.jp/contests/abc323/tasks/abc323_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc323_c",
@@ -32,7 +42,12 @@
       "id": "abc323_d",
       "label": "D",
       "title": "Merge Slimes",
-      "url": "https://atcoder.jp/contests/abc323/tasks/abc323_d"
+      "url": "https://atcoder.jp/contests/abc323/tasks/abc323_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc323_e",

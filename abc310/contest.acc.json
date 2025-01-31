@@ -9,13 +9,23 @@
       "id": "abc310_a",
       "label": "A",
       "title": "Order Something Else",
-      "url": "https://atcoder.jp/contests/abc310/tasks/abc310_a"
+      "url": "https://atcoder.jp/contests/abc310/tasks/abc310_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc310_b",
       "label": "B",
       "title": "Strictly Superior",
-      "url": "https://atcoder.jp/contests/abc310/tasks/abc310_b"
+      "url": "https://atcoder.jp/contests/abc310/tasks/abc310_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc310_c",

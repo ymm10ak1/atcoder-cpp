@@ -9,13 +9,23 @@
       "id": "abc315_a",
       "label": "A",
       "title": "tcdr",
-      "url": "https://atcoder.jp/contests/abc315/tasks/abc315_a"
+      "url": "https://atcoder.jp/contests/abc315/tasks/abc315_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc315_b",
       "label": "B",
       "title": "The Middle Day",
-      "url": "https://atcoder.jp/contests/abc315/tasks/abc315_b"
+      "url": "https://atcoder.jp/contests/abc315/tasks/abc315_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc315_c",
@@ -38,7 +48,12 @@
       "id": "abc315_e",
       "label": "E",
       "title": "Prerequisites",
-      "url": "https://atcoder.jp/contests/abc315/tasks/abc315_e"
+      "url": "https://atcoder.jp/contests/abc315/tasks/abc315_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc315_f",

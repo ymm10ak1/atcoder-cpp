@@ -9,13 +9,23 @@
       "id": "abc304_a",
       "label": "A",
       "title": "First Player",
-      "url": "https://atcoder.jp/contests/abc304/tasks/abc304_a"
+      "url": "https://atcoder.jp/contests/abc304/tasks/abc304_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc304_b",
       "label": "B",
       "title": "Subscribers",
-      "url": "https://atcoder.jp/contests/abc304/tasks/abc304_b"
+      "url": "https://atcoder.jp/contests/abc304/tasks/abc304_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc304_c",
@@ -32,7 +42,12 @@
       "id": "abc304_d",
       "label": "D",
       "title": "A Piece of Cake",
-      "url": "https://atcoder.jp/contests/abc304/tasks/abc304_d"
+      "url": "https://atcoder.jp/contests/abc304/tasks/abc304_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc304_e",

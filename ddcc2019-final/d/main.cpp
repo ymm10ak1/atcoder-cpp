@@ -15,7 +15,7 @@ const ll LLINF = 1e18;
 const string DISCO = "DISCO";
 const ll M = 1LL<<32;
 
-// TODO: WAとTLEのため改善しないといけない
+// BUG: WAとTLEのため改善しないといけない
 // NOTE: 今の実力では解けないため後回し
 int main(){
     string s;

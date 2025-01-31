@@ -9,13 +9,23 @@
       "id": "abc302_a",
       "label": "A",
       "title": "Attack",
-      "url": "https://atcoder.jp/contests/abc302/tasks/abc302_a"
+      "url": "https://atcoder.jp/contests/abc302/tasks/abc302_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc302_b",
       "label": "B",
       "title": "Find snuke",
-      "url": "https://atcoder.jp/contests/abc302/tasks/abc302_b"
+      "url": "https://atcoder.jp/contests/abc302/tasks/abc302_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc302_c",
@@ -32,7 +42,12 @@
       "id": "abc302_d",
       "label": "D",
       "title": "Impartial Gift",
-      "url": "https://atcoder.jp/contests/abc302/tasks/abc302_d"
+      "url": "https://atcoder.jp/contests/abc302/tasks/abc302_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc302_e",

@@ -13,7 +13,7 @@ const int INF = 1e9;
 const ll LLINF = 1e18;
 using P = pair<int,int>;
 
-// TODO: WA解(aで高い順、a+bで高い順でするのはダメ)
+// BUG: WA解(aで高い順、a+bで高い順でするのはダメ)
 int main(){
     int n; cin >> n;
     vector<int> a(n), b(n);

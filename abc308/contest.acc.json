@@ -9,13 +9,23 @@
       "id": "abc308_a",
       "label": "A",
       "title": "New Scheme",
-      "url": "https://atcoder.jp/contests/abc308/tasks/abc308_a"
+      "url": "https://atcoder.jp/contests/abc308/tasks/abc308_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc308_b",
       "label": "B",
       "title": "Default Price",
-      "url": "https://atcoder.jp/contests/abc308/tasks/abc308_b"
+      "url": "https://atcoder.jp/contests/abc308/tasks/abc308_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc308_c",

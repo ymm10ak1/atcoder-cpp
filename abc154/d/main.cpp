@@ -12,7 +12,7 @@ using ull = unsigned long long;
 const int INF = 1e9;
 const ll LLINF = 1e18;
 
-// TODO: 解法が思いつかない
+// BUG: 解法が思いつかない
 int main(){
     int n, k;
     cin >> n >> k;

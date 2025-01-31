@@ -9,19 +9,34 @@
       "id": "abc306_a",
       "label": "A",
       "title": "Echo",
-      "url": "https://atcoder.jp/contests/abc306/tasks/abc306_a"
+      "url": "https://atcoder.jp/contests/abc306/tasks/abc306_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc306_b",
       "label": "B",
       "title": "Base 2",
-      "url": "https://atcoder.jp/contests/abc306/tasks/abc306_b"
+      "url": "https://atcoder.jp/contests/abc306/tasks/abc306_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc306_c",
       "label": "C",
       "title": "Centers",
-      "url": "https://atcoder.jp/contests/abc306/tasks/abc306_c"
+      "url": "https://atcoder.jp/contests/abc306/tasks/abc306_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc306_d",

@@ -9,13 +9,23 @@
       "id": "abc321_a",
       "label": "A",
       "title": "321-like Checker",
-      "url": "https://atcoder.jp/contests/abc321/tasks/abc321_a"
+      "url": "https://atcoder.jp/contests/abc321/tasks/abc321_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc321_b",
       "label": "B",
       "title": "Cutoff",
-      "url": "https://atcoder.jp/contests/abc321/tasks/abc321_b"
+      "url": "https://atcoder.jp/contests/abc321/tasks/abc321_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc321_c",
@@ -32,7 +42,12 @@
       "id": "abc321_d",
       "label": "D",
       "title": "Set Menu",
-      "url": "https://atcoder.jp/contests/abc321/tasks/abc321_d"
+      "url": "https://atcoder.jp/contests/abc321/tasks/abc321_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc321_e",

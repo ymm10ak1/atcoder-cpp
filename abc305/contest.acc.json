@@ -9,13 +9,23 @@
       "id": "abc305_a",
       "label": "A",
       "title": "Water Station",
-      "url": "https://atcoder.jp/contests/abc305/tasks/abc305_a"
+      "url": "https://atcoder.jp/contests/abc305/tasks/abc305_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc305_b",
       "label": "B",
       "title": "ABCDEFG",
-      "url": "https://atcoder.jp/contests/abc305/tasks/abc305_b"
+      "url": "https://atcoder.jp/contests/abc305/tasks/abc305_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc305_c",
@@ -32,7 +42,12 @@
       "id": "abc305_d",
       "label": "D",
       "title": "Sleep Log",
-      "url": "https://atcoder.jp/contests/abc305/tasks/abc305_d"
+      "url": "https://atcoder.jp/contests/abc305/tasks/abc305_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc305_e",

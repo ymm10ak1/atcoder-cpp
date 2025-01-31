@@ -9,13 +9,23 @@
       "id": "abc317_a",
       "label": "A",
       "title": "Potions",
-      "url": "https://atcoder.jp/contests/abc317/tasks/abc317_a"
+      "url": "https://atcoder.jp/contests/abc317/tasks/abc317_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc317_b",
       "label": "B",
       "title": "MissingNo.",
-      "url": "https://atcoder.jp/contests/abc317/tasks/abc317_b"
+      "url": "https://atcoder.jp/contests/abc317/tasks/abc317_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc317_c",
@@ -32,7 +42,12 @@
       "id": "abc317_d",
       "label": "D",
       "title": "President",
-      "url": "https://atcoder.jp/contests/abc317/tasks/abc317_d"
+      "url": "https://atcoder.jp/contests/abc317/tasks/abc317_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc317_e",

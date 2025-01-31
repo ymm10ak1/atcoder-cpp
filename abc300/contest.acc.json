@@ -9,13 +9,23 @@
       "id": "abc300_a",
       "label": "A",
       "title": "N-choice question",
-      "url": "https://atcoder.jp/contests/abc300/tasks/abc300_a"
+      "url": "https://atcoder.jp/contests/abc300/tasks/abc300_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc300_b",
       "label": "B",
       "title": "Same Map in the RPG World",
-      "url": "https://atcoder.jp/contests/abc300/tasks/abc300_b"
+      "url": "https://atcoder.jp/contests/abc300/tasks/abc300_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc300_c",
@@ -32,7 +42,12 @@
       "id": "abc300_d",
       "label": "D",
       "title": "AABCC",
-      "url": "https://atcoder.jp/contests/abc300/tasks/abc300_d"
+      "url": "https://atcoder.jp/contests/abc300/tasks/abc300_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc300_e",

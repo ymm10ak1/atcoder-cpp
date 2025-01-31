@@ -26,7 +26,12 @@
       "id": "abc061_c",
       "label": "C",
       "title": "Big Array",
-      "url": "https://atcoder.jp/contests/abc061/tasks/abc061_c"
+      "url": "https://atcoder.jp/contests/abc061/tasks/abc061_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc061_d",

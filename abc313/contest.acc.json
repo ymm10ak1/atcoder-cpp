@@ -9,13 +9,23 @@
       "id": "abc313_a",
       "label": "A",
       "title": "To Be Saikyo",
-      "url": "https://atcoder.jp/contests/abc313/tasks/abc313_a"
+      "url": "https://atcoder.jp/contests/abc313/tasks/abc313_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc313_b",
       "label": "B",
       "title": "Who is Saikyo?",
-      "url": "https://atcoder.jp/contests/abc313/tasks/abc313_b"
+      "url": "https://atcoder.jp/contests/abc313/tasks/abc313_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc313_c",
