@@ -9,13 +9,23 @@
       "id": "abc343_a",
       "label": "A",
       "title": "Wrong Answer",
-      "url": "https://atcoder.jp/contests/abc343/tasks/abc343_a"
+      "url": "https://atcoder.jp/contests/abc343/tasks/abc343_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc343_b",
       "label": "B",
       "title": "Adjacency Matrix",
-      "url": "https://atcoder.jp/contests/abc343/tasks/abc343_b"
+      "url": "https://atcoder.jp/contests/abc343/tasks/abc343_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc343_c",

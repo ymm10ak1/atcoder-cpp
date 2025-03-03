@@ -475,7 +475,12 @@
       "id": "tessoku_book_bg",
       "label": "A59",
       "title": "RSQ (Range Sum Queries)",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bg"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bg",
+      "directory": {
+        "path": "a59",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_bh",
@@ -1054,13 +1059,23 @@
       "id": "tessoku_book_ee",
       "label": "B58",
       "title": "Jumping",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ee"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ee",
+      "directory": {
+        "path": "b58",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ef",
       "label": "B59",
       "title": "Number of Inversions",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ef"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ef",
+      "directory": {
+        "path": "b59",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_eh",

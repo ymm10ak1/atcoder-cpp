@@ -42,7 +42,12 @@
       "id": "abc353_d",
       "label": "D",
       "title": "Another Sigma Problem ",
-      "url": "https://atcoder.jp/contests/abc353/tasks/abc353_d"
+      "url": "https://atcoder.jp/contests/abc353/tasks/abc353_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc353_e",

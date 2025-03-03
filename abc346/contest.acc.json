@@ -9,13 +9,23 @@
       "id": "abc346_a",
       "label": "A",
       "title": "Adjacent Product",
-      "url": "https://atcoder.jp/contests/abc346/tasks/abc346_a"
+      "url": "https://atcoder.jp/contests/abc346/tasks/abc346_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc346_b",
       "label": "B",
       "title": "Piano",
-      "url": "https://atcoder.jp/contests/abc346/tasks/abc346_b"
+      "url": "https://atcoder.jp/contests/abc346/tasks/abc346_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc346_c",
@@ -32,7 +42,12 @@
       "id": "abc346_d",
       "label": "D",
       "title": "Gomamayo Sequence",
-      "url": "https://atcoder.jp/contests/abc346/tasks/abc346_d"
+      "url": "https://atcoder.jp/contests/abc346/tasks/abc346_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc346_e",

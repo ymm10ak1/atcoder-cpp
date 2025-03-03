@@ -9,13 +9,23 @@
       "id": "abc342_a",
       "label": "A",
       "title": "Yay!",
-      "url": "https://atcoder.jp/contests/abc342/tasks/abc342_a"
+      "url": "https://atcoder.jp/contests/abc342/tasks/abc342_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc342_b",
       "label": "B",
       "title": "Which is ahead?",
-      "url": "https://atcoder.jp/contests/abc342/tasks/abc342_b"
+      "url": "https://atcoder.jp/contests/abc342/tasks/abc342_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc342_c",
@@ -32,7 +42,12 @@
       "id": "abc342_d",
       "label": "D",
       "title": "Square Pair",
-      "url": "https://atcoder.jp/contests/abc342/tasks/abc342_d"
+      "url": "https://atcoder.jp/contests/abc342/tasks/abc342_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc342_e",

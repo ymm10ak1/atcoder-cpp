@@ -12,11 +12,16 @@ using ull = unsigned long long;
 const int INF = 1e9;
 const ll LLINF = 1e18;
 
-// BUG: 解法が思いつかない
 int main(){
     int n, k;
     cin >> n >> k;
     vector<int> p(n);
     rep(i,n) cin >> p[i];
+    vector<int> s(n+1);
+    rep(i,n) s[i+1] = s[i]+p[i]+1;
+    int mx = 0;
+    repi(i,k,n+1) mx = max(mx, s[i]-s[i-k]);
+    double ans = (double)mx/2;
+    printf("%.12f\n", ans);
     return 0;
 }

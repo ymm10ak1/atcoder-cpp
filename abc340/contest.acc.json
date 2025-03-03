@@ -9,13 +9,23 @@
       "id": "abc340_a",
       "label": "A",
       "title": "Arithmetic Progression",
-      "url": "https://atcoder.jp/contests/abc340/tasks/abc340_a"
+      "url": "https://atcoder.jp/contests/abc340/tasks/abc340_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc340_b",
       "label": "B",
       "title": "Append",
-      "url": "https://atcoder.jp/contests/abc340/tasks/abc340_b"
+      "url": "https://atcoder.jp/contests/abc340/tasks/abc340_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc340_c",
@@ -32,7 +42,12 @@
       "id": "abc340_d",
       "label": "D",
       "title": "Super Takahashi Bros.",
-      "url": "https://atcoder.jp/contests/abc340/tasks/abc340_d"
+      "url": "https://atcoder.jp/contests/abc340/tasks/abc340_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc340_e",

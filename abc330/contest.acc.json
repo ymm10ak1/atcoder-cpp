@@ -9,13 +9,23 @@
       "id": "abc330_a",
       "label": "A",
       "title": "Counting Passes",
-      "url": "https://atcoder.jp/contests/abc330/tasks/abc330_a"
+      "url": "https://atcoder.jp/contests/abc330/tasks/abc330_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc330_b",
       "label": "B",
       "title": "Minimize Abs 1",
-      "url": "https://atcoder.jp/contests/abc330/tasks/abc330_b"
+      "url": "https://atcoder.jp/contests/abc330/tasks/abc330_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc330_c",

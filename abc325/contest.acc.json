@@ -48,7 +48,12 @@
       "id": "abc325_e",
       "label": "E",
       "title": "Our clients, please wait a moment",
-      "url": "https://atcoder.jp/contests/abc325/tasks/abc325_e"
+      "url": "https://atcoder.jp/contests/abc325/tasks/abc325_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc325_f",

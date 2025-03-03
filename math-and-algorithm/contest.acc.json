@@ -102,7 +102,12 @@
       "id": "math_and_algorithm_n",
       "label": "014",
       "title": "Factorization",
-      "url": "https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_n"
+      "url": "https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_n",
+      "directory": {
+        "path": "014",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "math_and_algorithm_o",

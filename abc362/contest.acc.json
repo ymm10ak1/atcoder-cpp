@@ -9,13 +9,23 @@
       "id": "abc362_a",
       "label": "A",
       "title": "Buy a Pen",
-      "url": "https://atcoder.jp/contests/abc362/tasks/abc362_a"
+      "url": "https://atcoder.jp/contests/abc362/tasks/abc362_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc362_b",
       "label": "B",
       "title": "Right Triangle",
-      "url": "https://atcoder.jp/contests/abc362/tasks/abc362_b"
+      "url": "https://atcoder.jp/contests/abc362/tasks/abc362_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc362_c",

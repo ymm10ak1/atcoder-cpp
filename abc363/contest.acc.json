@@ -9,13 +9,23 @@
       "id": "abc363_a",
       "label": "A",
       "title": "Piling Up",
-      "url": "https://atcoder.jp/contests/abc363/tasks/abc363_a"
+      "url": "https://atcoder.jp/contests/abc363/tasks/abc363_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc363_b",
       "label": "B",
       "title": "Japanese Cursed Doll",
-      "url": "https://atcoder.jp/contests/abc363/tasks/abc363_b"
+      "url": "https://atcoder.jp/contests/abc363/tasks/abc363_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc363_c",
@@ -32,7 +42,12 @@
       "id": "abc363_d",
       "label": "D",
       "title": "Palindromic Number",
-      "url": "https://atcoder.jp/contests/abc363/tasks/abc363_d"
+      "url": "https://atcoder.jp/contests/abc363/tasks/abc363_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc363_e",

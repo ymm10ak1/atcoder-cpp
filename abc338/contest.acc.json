@@ -9,13 +9,23 @@
       "id": "abc338_a",
       "label": "A",
       "title": "Capitalized?",
-      "url": "https://atcoder.jp/contests/abc338/tasks/abc338_a"
+      "url": "https://atcoder.jp/contests/abc338/tasks/abc338_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc338_b",
       "label": "B",
       "title": "Frequency",
-      "url": "https://atcoder.jp/contests/abc338/tasks/abc338_b"
+      "url": "https://atcoder.jp/contests/abc338/tasks/abc338_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc338_c",

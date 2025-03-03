@@ -9,13 +9,23 @@
       "id": "abc335_a",
       "label": "A",
       "title": "202<s>3</s>",
-      "url": "https://atcoder.jp/contests/abc335/tasks/abc335_a"
+      "url": "https://atcoder.jp/contests/abc335/tasks/abc335_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc335_b",
       "label": "B",
       "title": "Tetrahedral Number",
-      "url": "https://atcoder.jp/contests/abc335/tasks/abc335_b"
+      "url": "https://atcoder.jp/contests/abc335/tasks/abc335_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc335_c",

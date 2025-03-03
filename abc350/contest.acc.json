@@ -9,13 +9,23 @@
       "id": "abc350_a",
       "label": "A",
       "title": "Past ABCs",
-      "url": "https://atcoder.jp/contests/abc350/tasks/abc350_a"
+      "url": "https://atcoder.jp/contests/abc350/tasks/abc350_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc350_b",
       "label": "B",
       "title": "Dentist Aoki",
-      "url": "https://atcoder.jp/contests/abc350/tasks/abc350_b"
+      "url": "https://atcoder.jp/contests/abc350/tasks/abc350_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc350_c",
@@ -32,7 +42,12 @@
       "id": "abc350_d",
       "label": "D",
       "title": "New Friends",
-      "url": "https://atcoder.jp/contests/abc350/tasks/abc350_d"
+      "url": "https://atcoder.jp/contests/abc350/tasks/abc350_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc350_e",

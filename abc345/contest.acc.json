@@ -9,13 +9,23 @@
       "id": "abc345_a",
       "label": "A",
       "title": "Leftrightarrow",
-      "url": "https://atcoder.jp/contests/abc345/tasks/abc345_a"
+      "url": "https://atcoder.jp/contests/abc345/tasks/abc345_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc345_b",
       "label": "B",
       "title": "Integer Division Returns",
-      "url": "https://atcoder.jp/contests/abc345/tasks/abc345_b"
+      "url": "https://atcoder.jp/contests/abc345/tasks/abc345_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc345_c",

@@ -9,7 +9,12 @@
       "id": "abc334_a",
       "label": "A",
       "title": "Christmas Present",
-      "url": "https://atcoder.jp/contests/abc334/tasks/abc334_a"
+      "url": "https://atcoder.jp/contests/abc334/tasks/abc334_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc334_b",
@@ -26,7 +31,12 @@
       "id": "abc334_c",
       "label": "C",
       "title": "Socks 2",
-      "url": "https://atcoder.jp/contests/abc334/tasks/abc334_c"
+      "url": "https://atcoder.jp/contests/abc334/tasks/abc334_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc334_d",
