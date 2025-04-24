@@ -1,0 +1,58 @@
+{
+  "contest": {
+    "id": "adt_medium_20250304_3",
+    "title": "AtCoder Daily Training MEDIUM 2025/03/04 19:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20250304_3"
+  },
+  "tasks": [
+    {
+      "id": "abc273_b",
+      "label": "C",
+      "title": "Broken Rounding",
+      "url": "https://atcoder.jp/contests/adt_medium_20250304_3/tasks/abc273_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test"
+      }
+    },
+    {
+      "id": "abc220_b",
+      "label": "D",
+      "title": "Base K",
+      "url": "https://atcoder.jp/contests/adt_medium_20250304_3/tasks/abc220_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc298_c",
+      "label": "E",
+      "title": "Cards Query Problem",
+      "url": "https://atcoder.jp/contests/adt_medium_20250304_3/tasks/abc298_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc212_c",
+      "label": "F",
+      "title": "Min Difference",
+      "url": "https://atcoder.jp/contests/adt_medium_20250304_3/tasks/abc212_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc308_d",
+      "label": "G",
+      "title": "Snuke Maze",
+      "url": "https://atcoder.jp/contests/adt_medium_20250304_3/tasks/abc308_d"
+    }
+  ]
+}

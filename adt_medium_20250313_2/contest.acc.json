@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "adt_medium_20250313_2",
+    "title": "AtCoder Daily Training MEDIUM 2025/03/13 18:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20250313_2"
+  },
+  "tasks": [
+    {
+      "id": "abc262_b",
+      "label": "C",
+      "title": "Triangle (Easier)",
+      "url": "https://atcoder.jp/contests/adt_medium_20250313_2/tasks/abc262_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc236_b",
+      "label": "D",
+      "title": "Who is missing?",
+      "url": "https://atcoder.jp/contests/adt_medium_20250313_2/tasks/abc236_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc327_c",
+      "label": "E",
+      "title": "Number Place",
+      "url": "https://atcoder.jp/contests/adt_medium_20250313_2/tasks/abc327_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc307_c",
+      "label": "F",
+      "title": "Ideal Sheet",
+      "url": "https://atcoder.jp/contests/adt_medium_20250313_2/tasks/abc307_c"
+    },
+    {
+      "id": "abc297_d",
+      "label": "G",
+      "title": "Count Subtractions",
+      "url": "https://atcoder.jp/contests/adt_medium_20250313_2/tasks/abc297_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

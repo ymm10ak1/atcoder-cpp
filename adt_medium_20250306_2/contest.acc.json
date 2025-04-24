@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20250306_2",
+    "title": "AtCoder Daily Training MEDIUM 2025/03/06 18:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20250306_2"
+  },
+  "tasks": [
+    {
+      "id": "abc370_b",
+      "label": "C",
+      "title": "Binary Alchemy",
+      "url": "https://atcoder.jp/contests/adt_medium_20250306_2/tasks/abc370_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc218_b",
+      "label": "D",
+      "title": "qwerty",
+      "url": "https://atcoder.jp/contests/adt_medium_20250306_2/tasks/abc218_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc354_c",
+      "label": "E",
+      "title": "AtCoder Magics",
+      "url": "https://atcoder.jp/contests/adt_medium_20250306_2/tasks/abc354_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc308_c",
+      "label": "F",
+      "title": "Standings",
+      "url": "https://atcoder.jp/contests/adt_medium_20250306_2/tasks/abc308_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc303_d",
+      "label": "G",
+      "title": "Shift vs. CapsLock",
+      "url": "https://atcoder.jp/contests/adt_medium_20250306_2/tasks/abc303_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}
