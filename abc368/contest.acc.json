@@ -9,13 +9,23 @@
       "id": "abc368_a",
       "label": "A",
       "title": "Cut",
-      "url": "https://atcoder.jp/contests/abc368/tasks/abc368_a"
+      "url": "https://atcoder.jp/contests/abc368/tasks/abc368_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc368_b",
       "label": "B",
       "title": "Decrease 2 max elements",
-      "url": "https://atcoder.jp/contests/abc368/tasks/abc368_b"
+      "url": "https://atcoder.jp/contests/abc368/tasks/abc368_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc368_c",
@@ -32,7 +42,12 @@
       "id": "abc368_d",
       "label": "D",
       "title": "Minimum Steiner Tree",
-      "url": "https://atcoder.jp/contests/abc368/tasks/abc368_d"
+      "url": "https://atcoder.jp/contests/abc368/tasks/abc368_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc368_e",
